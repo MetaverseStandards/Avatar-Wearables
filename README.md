@@ -10,6 +10,8 @@ Welcome to the MSF exploratory group focused on Digital Fashion! We are mainly e
 <div align="center">
   <a href="https://portal.metaverse-standards.org/wg/Fashion_Wearables/dashboard">🖥 Dashboard</a>
   &mdash;
+  <a href="https://hyperfy.io/msf">🎨 Visit</a>
+  &mdash;
   <a href="https://portal.metaverse-standards.org/wg/Fashion_Wearables/Calendar">📅 Calendar</a>
   &mdash;
   <a href="https://discord.gg/MVsqBDNn">💬 Discord</a>
@@ -74,7 +76,7 @@ Current agenda tasks are posted in GitHub issues: https://github.com/MetaverseSt
 
 ## Useful Resources
 
-
+Feel free to make suggestions in this issue: https://github.com/MetaverseStandards/avatar-wearables/issues/1, we plan to move this list into a separate wiki before it gets too long
 
 - 📝 Notes
   - https://hackmd.io/@XR/avatar-interop/https%3A%2F%2Fhackmd.io%2F%40XR%2Fmsf-wearables-2023 - 2023 planning doc
