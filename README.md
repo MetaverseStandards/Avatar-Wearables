@@ -34,22 +34,18 @@ We pay special attention to opportunities for cooperation between multiple initi
   - Weekly events and occasional research field trips related to avatar / wearable interop
 
 
-
 ---
 
 ## 🥅 Goals
 
+As with any MSF Exploratory Group our goal is to identify and build consensus on what pragmatic projects and activities can best progress interoperability in a particular domain, and then capturing those insights into a draft Working Group Charter. The more short-term deliverables that drive well-defined interoperability benefits the better.
+ 
 
-> The Metaverse Standards Forum is enabling a new level of industry coordination that is generating insights into the metaverse landscape—including what interoperability standards will have the greatest impact, and what business opportunities they will create. The Forum is NOT another SDO, but is enabling diverse SDOs to gather input, share progress, and cooperate with industry to identify needs and next steps to encourage, influence, and accelerate the evolution of effective, timely, open metaverse standards.
->
-> Source: [Metaverse Standards Forum Establishes Pipeline of Exploratory and Working Groups](https://metaverse-standards.org/news/blog/metaverse-standards-forum-announces-first-approved-domain-groups/)
-
-- Generate insights on digital fashion interoperability including clothing (with a layering system), shoes, hats, and accessories
-- Survey the current landscape of existing file formats for storing avatars and related assets
-- Generating use cases and requirements for avatar customisation
-- Defining logic for a wearables system including dress up, dress down, and replace options
-
-> We're also interested in an open source avatar validation tool for reliable import and export from popular authoring tools such as Blender.
+- Survey the current landscape of existing file formats for storing avatars and related assets https://github.com/MetaverseStandards/Avatar-Wearables/issues/2
+- Generating use cases and requirements for avatar customisation https://github.com/MetaverseStandards/Avatar-Wearables/issues/3
+- Generate insights on digital fashion interoperability including clothing (with a layering system), shoes, hats, and accessories https://github.com/MetaverseStandards/Avatar-Wearables/issues/4
+- Defining logic for a wearables system including dress up, dress down, and replace options https://github.com/MetaverseStandards/Avatar-Wearables/issues/4
+- Scope out an open source avatar validation tool for reliable import and export from popular authoring tools such as Blender https://github.com/MetaverseStandards/Avatar-Wearables/issues/7
 
 
 ---
@@ -61,25 +57,42 @@ Current agenda tasks are posted in GitHub issues: https://github.com/MetaverseSt
 
 **Our activities**
 
-- Research events that serve as both learning and promotion of digital fashion avatar wearable interop
-- Producing clear communications in the form of videos, blog posts, social media activity, and so on
-- Managing minutae, such as the Github organization, Discord channels, video transcriptions, etc
+- Make stuff: Many of us have a passion for creating avatars and wearables, hence why we're here!
+- Research events that serve as testing, learning, and promotion of avatar wearable interop
+- Producing clear communications in the form of notes, videos, blog posts, and so on
 
 
 **How can you help?**
 
-- Participate in our meetings by presenting your idea and what you've learned
+- First, jump into the [discord](https://discord.gg/MVsqBDNn) and introduce yourself! We're in the [#avatar-wearables](https://discord.com/channels/985632346386595930/1021816827787083776) channel
+- Participate in our meetups and help take notes, we're fans of [markdown](https://hackmd.io/) and [infinite canvas tools](https://infinitecanvas.tools/)
 - Work on a project that is missing, or missing in the right shape, in the open metaverse community
-- Promote the group to an audience who might be interested in helping out the mission
+- Promote the group to an audience or member who might be interested in helping out the mission
+
 
 ---
 
-## Resources
+## Useful Resources
 
-- https://hackmd.io/@xr/avatar-interop - book of open source notes related to avatar / wearable interop
+
+
+- 📝 Notes
+  - https://hackmd.io/@XR/avatar-interop/https%3A%2F%2Fhackmd.io%2F%40XR%2Fmsf-wearables-2023 - 2023 planning doc
+  - https://hackmd.io/@xr/avatar-interop - book of open source notes related to avatar / wearable interop
   - https://hackmd.io/@xr/avatarbuilders - notes on avatar builder programs
   - https://hackmd.io/@XR/wearables1 - notes on interoperable wearables systems
-- More coming soon (including assets to test with)
-
-
+- 👕 Test Assets
+  - https://github.com/madjin/vrm-samples
+  - ⚔ Loot
+    - https://hub.vroid.com/en/tags/m3taloot - VRM samples of different base meshes with CC0 avatar set
+    - https://github.com/webaverse/loot-assets - glb files for CC0 PBR quality wearables
+  - https://github.com/madjin/cryptovoxels-avatars - on-chain voxel art / glTF assets with mannequin avatars
+  - https://docs.decentraland.org/creator/wearables/wearables-overview/ - Wearables reference models at bottom of the page
+- 💿 Software
+  - https://github.com/esperecyan/VRMConverterForVRChat - VRM to VRChat / VRChat to VRM converter
+  - https://github.com/webaverse-studios/CharacterCreator - open source web based layering system with VRM export
+  - https://www.clo3d.com/en/ - 3D clothing design software used in manufactoring physical garments
+  - https://marvelousdesigner.com/ - 3D clothing designer used in cg, animation, and game dev industry
+  - https://vroid.com/en/studio - Popular VRM avatar designer software
+  
 🕺🌌🕺
