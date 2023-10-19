@@ -1,7 +1,7 @@
 # Digital Fashion Wearables for Avatars
 
 [![Club](https://img.shields.io/badge/project%20type-club-ff69b4)](https://project-types.github.io/#club)
-[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/MVsqBDNn)
+[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/hrQpYjAr3t)
 [![Twitter Follow](https://img.shields.io/twitter/follow/metaverse_forum)](https://twitter.com/metaverse_forum)
 
 Welcome to the MSF exploratory group focused on Digital Fashion! We are mainly exploring the use case where users can try on digital wearables in a virtual fitting room and leave with a new outfit that's ready to show such in as many places as possible.
