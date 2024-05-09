@@ -1,0 +1,25 @@
+# Summary
+The Digital Fashion Wearables for Avatars Metaverse Standards Forum discussed the use of digital fashion in various industries and fields, including gaming, entertainment, social media, and e-commerce. They explored the concept of a use case matrix to help identify potential applications for digital fashion wearables. The group also considered the role of virtual models, chat bots, and digital wardrobes in the context of digital fashion. They agreed on the importance of interoperability and discussed how different companies and platforms approach similar problems.
+
+# Action Items
+1. Share the use case matrix with the group for further contributions.
+2. Submit the charter to the oversight committee for conversion from an exploratory group to a working group.
+3. Reach out to Kendra and Emily regarding the proposed conversion.
+4. Schedule another meeting in 2 weeks to discuss any updates on the proposal and the status of the group.
+
+# Timeline of Topics Discussed
+1. Introduction and meeting logistics
+2. Use case matrix from the avatar group
+3. Digital fashion wearables use cases
+4. Virtual models, chat bots, and digital wardrobes
+5. Interoperability and parallel approaches to similar problems
+6. Conclusion and scheduling of next meeting
+
+# Notes
+- The group discussed the importance of interoperability in the context of digital fashion wearables.
+- They explored the concept of a use case matrix to help identify potential applications for digital fashion wearables.
+- Virtual models, chat bots, and digital wardrobes were considered in relation to digital fashion.
+- The group agreed on the importance of drawing parallels between different industries and fields when discussing digital fashion wearables.
+- They discussed how different companies and platforms approach similar problems.
+- The next meeting is scheduled for 2 weeks from now.
+

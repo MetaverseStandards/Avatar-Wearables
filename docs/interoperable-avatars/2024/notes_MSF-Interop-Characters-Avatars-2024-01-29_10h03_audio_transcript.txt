@@ -1,0 +1,44 @@
+
+**Speaker:** Hideo Imanaka, NICT
+
+**Title:** Metabolic Protocols and Avatars in a Metaverse Standards Forum Context
+
+**Date:** 2023-01-19
+
+**Time:** 14:00 UTC
+
+**Duration:** 60 minutes
+
+**Abstract:** This presentation will discuss the concept of metabolic protocols and their role in enabling interoperability between different virtual worlds or metaverses. It will also explore the use of avatars as a means to represent users within these virtual environments, and how they can be utilized to facilitate communication and interaction across different platforms. The presentation will provide an overview of the current state of metabolic protocols and their limitations, as well as potential solutions for addressing these challenges. Additionally, it will introduce the concept of a Metaverse Standards Forum (MSF) and its role in promoting interoperability and standardization within the metaverse ecosystem. The presentation will conclude with a discussion on the future direction of metabolic protocols and avatars, as well as potential collaborations between different working groups within the MSF.
+
+**Keywords:** Metabolic Protocols, Avatars, Metaverse Standards Forum, Interoperability, Standardization
+
+**Presentation Outline:**
+
+1. Introduction to Metabolic Protocols and their Role in Enabling Interoperability between Virtual Worlds
+2. Overview of the Current State of Metabolic Protocols and their Limitations
+3. Potential Solutions for Addressing Challenges in Metabolic Protocols
+4. Introduction to Avatars as a Means to Represent Users within Virtual Environments
+5. Role of Avatars in Facilitating Communication and Interaction across Different Platforms
+6. Overview of the Metaverse Standards Forum (MSF) and its Role in Promoting Interoperability and Standardization within the Metaverse Ecosystem
+7. Future Direction of Metabolic Protocols and Avatars within the MSF Context
+8. Potential Collaborations between Different Working Groups within the MSF
+9. Conclusion and Open Discussion
+
+**Presentation Slides:**
+
+1. Title slide with speaker name, title, date, time, and abstract
+2. Introduction to Metabolic Protocols and their Role in Enabling Interoperability between Virtual Worlds
+3. Overview of the Current State of Metabolic Protocols and their Limitations
+4. Potential Solutions for Addressing Challenges in Metabolic Protocols
+5. Introduction to Avatars as a Means to Represent Users within Virtual Environments
+6. Role of Avatars in Facilitating Communication and Interaction across Different Platforms
+7. Overview of the Metaverse Standards Forum (MSF) and its Role in Promoting Interoperability and Standardization within the Metaverse Ecosystem
+8. Future Direction of Metabolic Protocols and Avatars within the MSF Context
+9. Potential Collaborations between Different Working Groups within the MSF
+10. Conclusion and Open Discussion
+
+**Presentation Video:**
+
+[Link to Presentation Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+

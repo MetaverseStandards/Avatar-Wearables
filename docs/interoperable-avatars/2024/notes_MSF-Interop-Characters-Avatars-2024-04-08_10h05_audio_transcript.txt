@@ -1,0 +1,29 @@
+
+**Participants:**
+
+1. Hideaki Eguchi (VRMC)
+2. Mehdi Hamadou (Siemens)
+3. Hirya Geichi (VRMC)
+4. Zeno Rogue (Interop Characters Avatars Metaverse Standards Forum)
+5. Arman (Union Avatars)
+
+**Summary:**
+
+The meeting started with a brief introduction of the participants and their roles in the Interop Characters Avatars Metaverse Standards Forum. The main focus of the discussion was on the use cases for the metaverse standards forum. The first use case discussed was the "Chatbot" scenario, where a character chat bot interacts with users to provide information or assistance. The second use case discussed was the "Virtual Singers and Bandmates" scenario, which involves virtual musicians performing live shows in a virtual environment. The third use case discussed was the "Non-Player Character (NPC)" scenario, which focuses on the interaction between non-human characters and users within a digital or virtual environment.
+
+The participants shared their thoughts and feedback on each use case. They discussed the challenges and opportunities associated with each scenario, as well as potential improvements to enhance user engagement and interaction. The meeting also touched upon the importance of considering both humanoid and non-humanoid characters in the NPC scenario. The participants agreed that it would be beneficial to include examples for both types of characters.
+
+The meeting concluded with a discussion on the process of building detailed use cases, as well as the upcoming educational meetings for other working groups within the Interop Characters Avatars Metaverse Standards Forum. The participants were encouraged to stay engaged and participate in the off-meeting discussions if they had any questions or comments.
+
+**Key Takeaways:**
+
+1. The "Chatbot" scenario focuses on providing information or assistance through a character chat bot, with limited interaction between users and the environment. The participants suggested adding capabilities for the Chatbot to interact with objects in the environment, such as showing how to use a product or explaining the reasoning behind an artist's work.
+
+2. The "Virtual Singers and Bandmates" scenario involves virtual musicians performing live shows in a virtual environment. The participants discussed the benefits of this use case, including enabling imaginative characters to perform live shows, allowing deceased musicians to perform shows, and enabling musicians to perform live in multiple venues at once.
+
+3. The "Non-Player Character (NPC)" scenario focuses on the interaction between non-human characters and users within a digital or virtual environment. The participants agreed that it would be beneficial to include examples for both humanoid and non-humanoid characters in this scenario.
+
+4. The process of building detailed use cases involves working with relevant stakeholders and members, curating content, reviewing the content by Chas and members, and finalizing the use case once approved by the Chaz and members.
+
+5. The Interop Characters Avatars Metaverse Standards Forum will be giving educational meetings to other working groups within the forum, with the next meeting scheduled for April 22nd and June 5th.
+

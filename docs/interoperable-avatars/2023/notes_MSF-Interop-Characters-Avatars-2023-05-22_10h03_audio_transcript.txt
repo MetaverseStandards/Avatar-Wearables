@@ -1,0 +1,25 @@
+# Interop Characters Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting was about the Interoperable Avatars and Characters group of the Metaverse Standards Forum. The main topics discussed were approving previous meeting minutes, outreach updates, educational sessions, charter updates, and future meetings.
+
+## Action Items
+- Continue discussing charter updates in upcoming meetings
+- Share suggestions for topics or process through a provided link
+- Wait for confirmation on the next Speaker
+
+## Timeline of Topics Discussed
+1. Approving previous meeting minutes
+2. Outreach updates
+3. Educational sessions with Quinton Avril from Inter Digital
+4. Charter updates
+5. Future meetings and briefs
+6. Questions related to the presentation
+
+## Notes
+- Mentioned that the team has been working on various body parts, including facial hair, skin, and grooming
+- Discussed the need for a common interchange format for transmission purposes in the context of XR applications
+- Presented Morgan, a reference digital character, which includes facial landmarks, skeleton, and different levels of detail
+- Highlighted that non-humanoid structures are currently out of scope but will be discussed in future meetings
+- Shared links to Mpeg group resources and the charter document for further discussion
+

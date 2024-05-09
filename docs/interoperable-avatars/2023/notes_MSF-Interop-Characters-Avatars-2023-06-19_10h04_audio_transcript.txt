@@ -1,0 +1,36 @@
+# Interop Characters Avatars Metaverse Standards Forum Meeting Summary
+
+## Overall Summary
+The meeting was about discussing the use cases, requirements, ecosystems, and roadmaps for interoperable characters and avatars in the metaverse. The main focus was on humanoid and non-humanoid character standards, with a goal to provide recommended guidelines and foster consistency across different platforms and applications. The meeting also discussed the importance of metadata, open source tooling, and communication plans.
+
+## Action Items
+1. Finalize the charter for the Interop Characters Avatars Metaverse Standards Forum working group.
+2. Schedule another meeting to incorporate feedback and make necessary edits to the charter.
+3. Pass the edited charter for approval from all members.
+4. Transfer the approved charter to the working group for implementation.
+5. Prepare a press release to increase visibility and participation in the forum's efforts.
+6. Follow the communication plan, using the group email and discord link for major discussions.
+7. Keep all records, documents, and meeting minutes available on the exploratory group portal.
+8. Notify the oversight about any new requirements or funding needs.
+9. Schedule meetings alternatively across Pacific daylight time favorable time zones.
+10. Continue working towards interoperability and portability of characters across different platforms and applications.
+
+## Timeline of Topics Discussed
+1. Introduction and agenda review.
+2. Approval of previous meeting minutes.
+3. Outreach updates and member proposal discussion.
+4. Session time management and future meeting briefs.
+5. Presentation on "Character as a Service" by Xeno Savior from Characters by Z.
+6. Discussion on character standards, metadata, and conversion support across different formats.
+7. Focus on facial features and anchor points for consistent rendering of characters.
+8. Coordination with Sdos companies, engine companies, organizations involved in the metaverse standards forum.
+9. Milestone planning tied to upcoming conferences like GDC or Graph Asia.
+10. Risk mitigation strategies to ensure key players are aware and involved in the forum's efforts.
+11. Renewable working group charter proposal with semi-annual reports and annual reports.
+12. Funding requests based on need, following a similar process for approval from oversight.
+
+## Notes
+1. The meeting was recorded and all documents were shared in the exploratory group portal.
+2. Participants were encouraged to use the group email for major discussions and discord link for quick discussions.
+3. The next meeting will be scheduled alternatively across Pacific daylight time favorable time zones.
+

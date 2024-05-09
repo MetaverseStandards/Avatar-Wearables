@@ -1,0 +1,29 @@
+# Summary
+The Digital Fashion Wearables for Avatars working group of the Metaverse Standards Forum held their 18th meeting to discuss the progress and future plans of their project. They covered various topics such as character studio updates, use case matrix, charter review, and meeting cadence. The group also shared resources and discussed potential field trips and presentations.
+
+# Action Items
+1. Review the charter document for any suggestions or improvements.
+2. Continue gathering information and reaching out to other groups within the Metaverse Standards Forum.
+3. Organize a presentation or educational event related to digital fashion wearables for avatars.
+4. Plan a field trip to attend Virtual Market, which opens this weekend, as a learning opportunity.
+5. Discuss potential topics for future meetings and presentations.
+6. Schedule the next meeting on December 11th.
+
+# Timeline of Topics Discussed
+1. Introduction and meeting logistics (0:00:03 - 0:00:21)
+2. Legal disclaimer and guidelines for the meeting (0:00:22 - 0:01:42)
+3. Overview of character studio updates and documentation needs (0:01:42 - 0:09:50)
+4. Discussion on use case matrix and gathering visual media examples (0:09:50 - 0:15:03)
+5. Charter review, suggestions for improvements, and meeting cadence discussion (0:15:03 - 0:24:00)
+6. Sharing resources and potential field trips or presentations (0:24:00 - 0:37:90)
+7. Opening up for discussion and questions from the group members (0:37:90 - 0:48:56)
+8. Closing remarks and scheduling the next meeting (0:48:56 - 0:50:17)
+
+# Notes
+- The character studio is an open source project for making 3D avatars, focusing on layered clothing and optimizing assets.
+- The group is working on a manifest file that organizes different wearables per base mesh.
+- They discussed the possibility of adding support for GLB models in their project.
+- The use case matrix covers various scenarios where digital fashion plays a role in metaverse gaming, entertainment, ecommerce, and social media.
+- The group shared resources such as CCO asset kits and encouraged members to contribute to the document with additional use cases.
+- They plan to attend Virtual Market as a field trip to learn more about digital fashion wearables for avatars.
+

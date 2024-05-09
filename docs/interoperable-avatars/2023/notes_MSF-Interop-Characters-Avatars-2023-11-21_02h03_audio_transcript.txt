@@ -1,0 +1,33 @@
+# Summary
+The meeting was about the Interoperable Characters and Avatars group of the Metaverse Standards Forum. The main topics discussed were:
+- Updates on Speaker outreach and Member proposal
+- Principal member agreements renewal
+- Working group web pages press release updates
+- Use case matrix and industry map
+- Privacy elements to consider
+- Glossary creation process
+- Educational session for the Central European time zone audience
+- Reminder on using the group email and discord link
+# Action Items
+1. Approve previous meeting minutes
+2. Confirm a speaker from Nokia for the educational session
+3. Update the Member statements in the press release draft
+4. Create a glossary sheet based on all the work that is being done
+5. Invite multiplayer vendors like Photon and Normal to present on how they cope with multiplayer instantiation
+6. Follow up on speakers for educational sessions
+# Timeline of Topics Discussed
+1. Updates on Speaker outreach and Member proposal
+2. Principal member agreements renewal
+3. Working group web pages press release updates
+4. Use case matrix and industry map
+5. Privacy elements to consider
+6. Glossary creation process
+7. Educational session for the Central European time zone audience
+8. Reminder on using the group email and discord link
+# Notes
+- The use case matrix is currently work in progress
+- The virtual stage production use case is still being worked on
+- Members are encouraged to take ownership of use cases and contribute to their completion
+- A glossary sheet based on all the work that is being done is being considered
+- Multiplayer vendors like Photon and Normal are invited to present on how they cope with multiplayer instantiation
+

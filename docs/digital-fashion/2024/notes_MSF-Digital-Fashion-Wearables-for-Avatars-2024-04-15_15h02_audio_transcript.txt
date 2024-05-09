@@ -1,0 +1,21 @@
+**Summary of the Meeting**
+
+The meeting started with an introduction to the Character Labs working group. The group is focused on creating a translation framework for avatars and characters across different tools and runtimes. They have created guidelines for avatar representations, including import/export avatar data. The group also discussed the importance of interoperability between different standards providers under the Gl umbrella.
+
+The meeting then moved to discussing the deliverables and roadmaps of the working group. The main deliverable is the translation framework, which will be based on glt of 2.0. The framework will include guidelines for avatar representations, including mesh materials, skeletons, animations, anchor points, physics, metadata, and so on. The guidelines will be delivered incrementally, with different components being released in a bi-weekly manner.
+
+The group also discussed the creation of test assets based on the design of the transition framework. These test assets will help exercise the correct operations of importers and validate the avatar data against the translation framework. Additionally, a validation tool will be created to check if an avatar file conforms to the translation framework design.
+
+The group also discussed the creation of a test bed for different stos or organizations involved in the outer space to test their implementation of the transition framework. The test bed will have owners and permissionless access, allowing for less friction during initial explorations.
+
+The meeting concluded with a discussion on interfaces between the Avatar group and the fashion variables working group. The groups agreed to work closely together by coordinating deliverable planning, having monthly recurrence syncs, and aligning on the translation framework. They also discussed the possibility of having side consultations where all members of both groups meet to discuss relevant matters that apply to both groups.
+
+**Key Takeaways**
+
+1. The Character Labs working group is focused on creating a translation framework for avatars and characters across different tools and runtimes.
+2. The main deliverable is the translation framework, which will be based on glt of 2.0.
+3. Guidelines for avatar representations will be delivered incrementally, with different components being released in a bi-weekly manner.
+4. Test assets based on the design of the transition framework will be created to help exercise importers and validate avatar data against the translation framework.
+5. A validation tool will be created to check if an avatar file conforms to the translation framework design.
+6. A test bed for different stos or organizations involved in the outer space will be created to allow for less friction during initial explorations.
+7. The groups agreed to work closely together by coordinating deliverable planning, having monthly recurrence syncs, and aligning on the translation framework.

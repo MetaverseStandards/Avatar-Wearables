@@ -1,0 +1,21 @@
+# Summary
+The meeting was about the Digital Fashion Wearables for Avatars working group at the Metaverse Standards Forum. The main topics discussed were the use cases of digital fashion and how it can be applied to avatars in various scenarios such as virtual concerts, social media filters, and branded activations.
+
+# Action Items
+1. Discuss potential changes to the meeting schedule to accommodate different time zones.
+2. Continue adding use cases to the excel sheet for visualization purposes.
+3. Encourage group members to provide feedback on the visualizations and any missed use cases.
+4. Stop recording and move over to the water cooler moment for informal discussions.
+
+# Timeline of Topics Discussed
+1. Introduction and meeting logistics (00:00:05 - 00:01:04)
+2. Presentation by Logan Ryan from Sophiaverse.ai (00:01:04 - 00:36:07)
+3. Discussion on use cases of digital fashion and avatars (00:36:07 - 00:57:04)
+4. Feedback and suggestions for the meeting schedule (00:57:04 - 00:58:12)
+
+# Notes
+- Logan Ryan presented on the use of digital fashion in avatars, focusing on customization and branding opportunities.
+- The group discussed various use cases of digital fashion, such as virtual concerts, social media filters, and branded activations.
+- There was a suggestion to change the meeting schedule to accommodate different time zones.
+- Members were encouraged to provide feedback on the visualizations and any missed use cases.
+

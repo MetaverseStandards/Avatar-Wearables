@@ -1,0 +1,38 @@
+# Interop Characters Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting was about the Interoperable Characters and Avatars group of the Metaverse Standards Forum. The main topics discussed were outreach updates, member proposal, and education session. Sebastian Burghett from Sandbox gave a presentation on how they are working to bring avatars to life in their platform.
+
+## Action Items
+1. Review meeting minutes and pass motion for approval.
+2. Continue with outreach efforts to expand the forum's reach.
+3. Work with the Forum oversight, Neil and team, to further expand outreach.
+4. Update member process document with email information.
+5. Schedule future meetings based on speaker availability.
+6. Utilize the Metaverse Standards Forum portal for all meeting-related documents and recordings.
+7. Use the discord channel for quick discussions.
+8. Consider joining other exploratory groups within the Metaverse Standards Forum, such as Fashion Variables.
+
+## Timeline of Topics Discussed
+1. Introduction and code of conduct reminder.
+2. Approval of previous meeting minutes.
+3. Outreach updates: Speaker outreach progress and plans for future meetings.
+4. Member proposal: Confirmation of Sebastian Burghett's talk and details on other proposals.
+5. Education session: Presentation by Sebastian Burghett on Sandbox's approach to avatars and interoperability.
+6. Future meeting times: Alternating between specific time, favorable time, and central time based on speaker availability.
+7. Tools and resources: Access to the Metaverse Standards Forum portal for documents, recordings, and minutes.
+8. Discord channel: Public discussion platform for quick discussions related to the forum's activities.
+9. Exploratory groups within the Metaverse Standards Forum: Participation in other groups such as Fashion Variables.
+
+## Notes
+1. Sandbox is a virtual world where players can create, play, govern, and monetize their experiences using NFTs and SAND tokens.
+2. Sandbox has been featured in Time 100 as one of the top 100 most influential companies of 2022.
+3. Sandbox is part of the Open Metavers Alliance, which aims to create an ecosystem and framework where users are at the center of value proposition.
+4. The mission behind Sandbox is to empower the Creator generation to develop new forms of digital experiences and entertainment through digital ownership.
+5. Sandbox supports a wide range of content from various brands and IPs, allowing users to mix and remix their favorite virtual world elements.
+6. Sandbox provides tools for creators to build their own experiences and content without requiring any specific learning skills or knowledge of coding.
+7. The platform aims to bring more culture and content from the physical world into the metaverse by partnering with popular brands, artists, and influencers.
+8. Sandbox supports interoperability by allowing users to take their digital identity through avatars across different platforms without permission.
+9. Sandbox is working on a self-service model for partners to bring their collections into the platform using their own wallets and APIs.
+10. Sandbox plans to support more formats, such as VRM and Fbx, in the future to enable modding and content creation by developers and creators.
+

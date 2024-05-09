@@ -1,0 +1,37 @@
+# Meeting Summary
+
+## Overall Summary
+
+The Interoperable Characters and Avatars group of the Metaverse Standards Forum held their thirteenth meeting to discuss various topics related to interoperability, standards, and use cases. The meeting was attended by representatives from different companies and organizations.
+
+## Key Points
+
+1. The meeting agenda included approving previous meeting minutes, speaker outreach updates, education session update, roadmap discussion, and allocation of use cases for contributors.
+2. The group discussed the transition framework for avatars and characters, which includes components such as mesh, materials, skeleton guidelines, anchor points, physics, and metadata guidelines.
+3. The group shared a new visual imagery to represent the avatar test asset conforming to the design of the translation framework.
+4. The group discussed the process for creating detailed use cases using the standard register template and encouraged members to contribute to the initiative.
+5. The meeting concluded with an allocation exercise where participants could express interest in taking ownership of specific use cases.
+
+## Action Items
+
+1. Members are encouraged to contribute to the creation of detailed use cases following the standard register template.
+2. Participants can take ownership of specific use cases by adding their names as supporters or owners in the allocated sections.
+3. The group will follow up with Eric Klassen from CableLabs regarding light field displays and avatars.
+
+## Timeline Summary
+
+1. Introduction and agenda review (00:00:04.980 - 00:00:27.870)
+2. Speaker outreach updates (00:00:28.040 - 00:01:06.790)
+3. Education session update (00:01:06.790 - 00:05:01.370)
+4. Roadmap discussion and allocation of use cases (00:05:01.370 - 00:12:03.830)
+
+## Notes
+
+1. The group discussed the need for privacy and cyber security considerations in their work.
+2. The group shared a video highlighting various use cases of avatars and characters, including virtual try-ons, romance, virtual production, and more.
+3. The group emphasized the importance of member contributions to the detailed use case creation process.
+4. The group encouraged participants to explore different industries and use cases based on their interests and expertise.
+5. The group mentioned that they are in talks with the Fashion Variables working group to give an education session.
+6. The next meeting is scheduled for March 20th, followed by another meeting on March 28th.
+7. Participants were reminded to observe daylight saving time changes when scheduling meetings.
+

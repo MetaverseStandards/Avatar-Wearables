@@ -1,0 +1,30 @@
+# Digital Fashion Wearables for Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting was about the Digital Fashion Wearables for Avatars working group of the Metaverse Standards Forum. The main topics discussed were:
+- Introduction and agenda
+- Presentation by Morph on Mini Fashion Week in the metaverse
+- Discussion on interoperability between different platforms
+- Suggestions for future presentations and workshops
+- Next meeting date and time
+
+## Action Items
+1. Add suggestions to the spreadsheet of organizations, individuals, and thought leaders to invite to the table.
+2. Plan workshops or practical exercises on certain tools related to avatars and digital fashion variables.
+3. Research on interoperability between different platforms (e.g., Unity, Unreal, LTF).
+4. Continue exploring the space for interoperability of fashion variables across web 2 and by 3 platforms.
+5. Prepare a presentation for the next meeting on May 8th.
+
+## Timeline of Topics Discussed
+1. Introduction and agenda
+2. Presentation by Morph on Mini Fashion Week in the metaverse
+3. Discussion on interoperability between different platforms
+4. Suggestions for future presentations and workshops
+5. Next meeting date and time
+
+## Notes
+- The group is focused on exploring the space for interoperability of fashion variables across web 2 and by 3 platforms.
+- They have been working on this topic for about 2 years.
+- The goal is to make it easier for end users to collect or claim fashion items through systems like AD drops or link variables.
+- The group is open to collaboration with other organizations, individuals, and thought leaders in the space.
+

@@ -1,0 +1,21 @@
+# Section 1: Overall Summary
+The Digital Fashion Wearables for Avatars working group meeting focused on discussing the role of fashion and schemes in avatar storytelling. The meeting was led by Luke Schurgers, who presented his company's platform, Replicant, which is a procedural content generator designed to scale graphics and facilitate the creation of digital wearables.
+
+# Section 2: Action Items
+1. Share the presentation document with all group members for collaboration on the public-facing web page.
+2. Invite guest speakers from Ready Player Me or other relevant companies for future meetings.
+3. Ensure that the next meeting wraps up within half an hour to allow time for individual work.
+
+# Section 3: Timeline of Topics Discussed
+1. Introduction and logistics (00:00:03.480 --> 00:01:08.289)
+2. Presentation by Luke Schurgers on Replicant (00:01:08.960 --> 00:55:20.019)
+3. Discussion on the role of fashion and schemes in avatar storytelling (00:55:20.020 --> 00:56:56.790)
+4. Action items and next meeting planning (00:56:56.790 --> 00:57:13.489)
+
+# Section 4: Notes
+1. Replicant is a procedural content generator designed to scale graphics and facilitate the creation of digital wearables.
+2. The platform allows users to design characters in real time, with options for customization and layering of clothes.
+3. Collision detection and physics simulation are areas of focus for future development.
+4. Replicant supports importing from various formats, including Meta humans and VRMs.
+5. The company aims for user-first design and mass market appeal before focusing on more advanced experiences.
+

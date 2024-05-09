@@ -1,0 +1,14 @@
+# Summary
+The Interoperable Characters and Avatars group of the Metaverse Standards Forum held their ninth meeting, discussing topics such as approving previous meeting minutes, outreach and member proposals, time management, and guest speaker Patrick Hadley's presentation on body anchoring standards. The group also discussed the creation of a charter for the organization, focusing on use cases and harmonization between various standards organizations. They plan to release a recommended guidelines document and explore opportunities for common metadata requirements.
+
+# Action Items
+1. Approve previous meeting minutes
+2. Continue outreach efforts
+3. Discuss member proposals and provide feedback
+4. Implement time management strategies during meetings
+5. Create a charter focusing on use cases and harmonization between standards organizations
+6. Release recommended guidelines document
+7. Explore opportunities for common metadata requirements
+8. Plan a press release to promote the group's efforts
+9. Transition to working groups once the charter is approved
+

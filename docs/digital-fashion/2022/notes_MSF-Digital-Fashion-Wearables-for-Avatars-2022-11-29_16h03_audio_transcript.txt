@@ -1,0 +1,25 @@
+# Metaverse Standards Forum Digital Fashion Wearables for Avatars Working Group Meeting Summary
+
+## Overview
+The meeting was a discussion about the future of digital fashion in the metaverse, specifically focusing on avatar wearables. The group discussed various challenges and opportunities related to creating digital clothing and integrating it with different platforms. They also shared their experiences working with different file formats and tools for creating digital assets.
+
+## Key Points
+1. The group is focused on exploring how fashion and metaverse will intersect in the future.
+2. One of the biggest challenges is creating avatar wearables that adapt to different models and maintain a consistent appearance across platforms.
+3. There are various file formats and tools available for creating digital assets, but compatibility and interoperability between platforms can be challenging.
+4. The group discussed the potential use of neural networks or other automation techniques to streamline the process of mapping clothing onto avatars.
+5. They also mentioned the importance of considering intellectual property rights and ownership when developing digital fashion assets.
+6. The group agreed on the need for a charter document outlining their goals, milestones, and project plans.
+7. They decided to meet every two weeks, with the next meeting scheduled for December 14th.
+8. The group will review and finalize the charter document by the end of the year and submit it to the Metaverse Standards Forum for approval.
+9. Once approved, they plan to start working on projects related to digital fashion in the metaverse, potentially forming teams or working individually based on their interests and skills.
+10. They emphasized the importance of prioritizing goals and deciding which ones to focus on first.
+
+## Action Items
+1. Review and finalize the charter document by December 14th.
+2. Submit the approved charter document to the Metaverse Standards Forum for approval.
+3. Start working on projects related to digital fashion in the metaverse, potentially forming teams or working individually based on interests and skills.
+4. Prioritize goals and decide which ones to focus on first.
+5. Share all materials collected when preparing the proposal on the wiki on the portal.
+6. Add the group's chair to the Metaverse Standards Forum as a go.
+

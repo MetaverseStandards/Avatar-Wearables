@@ -1,0 +1,13 @@
+# Summary
+The meeting was about the Interoperable Characters and Avatars working group of the Metaverse Standards Forum. The main topics discussed were:
+1. Approving the previous meeting minutes
+2. Outreach updates, including speaker selection for future sessions
+3. Congratulating the group on their recent achievements
+4. Focusing on immediate goals such as creating a press release and use case metrics
+5. Discussing the election process for chat positions within the working group
+6. Creating dedicated web pages for each working group to showcase their accomplishments, work in progress, and domain-specific facts
+7. Encouraging members to contribute to the working group by identifying smaller tasks that can be executed independently based on people's availability
+8. Suggesting a biweekly meeting schedule with the same content for both European and United States regions
+9. Inviting speakers from multiplayer frameworks to discuss underpinning aspects related to avatars and multiplayer systems
+10. Discussing the possibility of having two meetings per week, one for each time zone, during important periods when the content is repeating
+

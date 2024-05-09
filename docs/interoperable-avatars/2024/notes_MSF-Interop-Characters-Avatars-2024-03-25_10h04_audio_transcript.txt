@@ -1,0 +1,38 @@
+# Metaverse Standards Forum: Interoperable Characters and Avatars Working Group Meeting
+
+## Overall Summary
+This was the 14th meeting of the Interoperable Characters and Avatars working group. The main agenda included approving previous meeting minutes, updates on speaker outreach and member proposals, an educational session by MPEG on their media avatar work, and a detailed presentation on the "Character Chatbots" use case by Tracy Swales. Key discussions revolved around clarifying the terminology of avatars vs characters, exploring synergies between MPEG and Metaverse Standards Forum efforts, and reviewing the proposed chatbot use case scenarios.
+
+- Approval of previous meeting minutes
+- Speaker outreach and member proposal updates
+- Educational session by MPEG on media avatar requirements, use cases, and standards
+- Detailed use case presentation on "Character Chatbots" by Tracy Swales
+- Discussions on avatar vs character definitions and industry perspectives
+- Potential liaison between MPEG and Metaverse Standards Forum   
+
+## Action Items
+- Explore official liaison between MPEG media avatar group and Metaverse Standards Forum  
+- Review and provide feedback on the "Character Chatbots" use case document
+- Consider separating features vs use cases in the use case matrix 
+
+## Timeline Overview
+- Meeting opening, agenda review
+- Voting to approve previous meeting minutes
+- Speaker outreach updates, including potential speakers from Privacy/Cybersecurity group and Pixar
+- Educational session by MPEG (Quentin Avril) on media avatar work 
+  - Requirements, use cases, and standards for media avatars
+  - Overview of avatar representation, coding format, transport, and storage needs
+- Detailed use case presentation by Tracy Swales on "Character Chatbots"
+  - Definition, benefits, and scenarios involving conversational AI chatbots  
+  - Discussion on avatar vs character terminology for player/non-player entities
+- Updates on upcoming digital fashion avatars working group presentation
+- Next meeting dates and working group resources
+
+## Notes
+- Importance of visual examples and consumer-accessible content from MPEG media avatar efforts
+- Potential for lossless and lossy conversion between MPEG and VRM/Epic avatars  
+- Considerations around stylized vs realistic avatar representations
+- Use of "player visitor" terminology to encompass web and immersive VR entry points
+- Language detection and multilingual support for chatbots
+- Replicating naturalistic real-world experiences through chatbot interactions
+- Challenges around aging, voice, and localization for chatbot avatars

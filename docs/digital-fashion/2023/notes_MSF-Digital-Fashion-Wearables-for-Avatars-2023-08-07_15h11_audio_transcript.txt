@@ -1,0 +1,32 @@
+# Digital Fashion Wearables for Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting focused on discussing the goals and non-goals of the digital fashion wearable system, as well as exploring potential enhancements. The group aimed to finalize the charter document and gather guidelines and resources for optimization targets. They also discussed the importance of collaboration with relevant standards bodies and the need to make their notes easily digestible to share with other working groups.
+
+## Action Items
+1. Finalize the charter document.
+2. Gather guidelines and resources for optimization targets.
+3. Collaborate with relevant standards bodies.
+4. Make notes easily digestible to share with other working groups.
+
+## Timeline of Topics Discussed
+1. Introduction and code of conduct.
+2. Reviewing the agenda and discussing goals and non-goals for digital fashion wearables.
+3. Exploring potential enhancements and liaising with software to add plugins.
+4. Discussion on base naked avatar customization, including head customization.
+5. Discussion on decentraland wearables and creators' opinions on relevance to the group.
+6. Discussion on the process of purchasing wearables and receipt systems.
+7. Exploring the reusability of a proposed system for improving wearable interoperability.
+8. Proposing an integrated system that caters to different stakeholders, including character groups and translation frameworks.
+9. Use case matrix for avatar wearables and soft launch/beta test plans.
+10. Discussion on animation systems and challenges with implementing VRM.
+11. Collaboration with the avatar group and exploring animation retargeting solutions.
+12. Finalizing the charter document and gathering guidelines and resources for optimization targets.
+13. Importance of collaboration with relevant standards bodies and making notes easily digestible to share with other working groups.
+
+## Notes
+- The group discussed the importance of a use case matrix for avatar wearables, which could help tabulate all the different ways digital fashion variables can be used across various platforms.
+- They also touched upon the need for a translation framework that improves wearable interoperability across different systems.
+- The group mentioned the challenges with implementing VRM and how it affects pre-existing animation systems.
+- They explored potential solutions, such as Nvidia's auto map templates, which could help solve difficult animation retargeting challenges.
+

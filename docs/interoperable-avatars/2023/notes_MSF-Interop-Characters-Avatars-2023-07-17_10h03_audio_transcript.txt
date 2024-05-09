@@ -1,0 +1,36 @@
+# Interoperable Characters and Avatars Meeting Summary
+
+## Overview
+The meeting was about the Interoperable Characters and Avatars group, discussing the charter, updates from the standards register team, and Msf membership. The main focus of the meeting was on the charter, which aims to foster collaboration and discourse among stakeholders in avatar and character technologies. The working group will create a matrix of priority use cases versus key in properties requirements, develop an avatar and character translation framework, and explore opportunities for defining physical simulation properties, such as stiffness, damping, and more that drive the building of hat cloth and other mobile components based on the principles of physics in response to user infractions. The meeting also discussed the milestone plan, which includes a 3-month deliverable of a Youtube Video library based on guest speakers, an initial domain report on the formation of the working group including a detailed plan for the translation framework, and a first release of the transition framework with any necessary specification procurements test with our assets and the open source certification tools. The meeting concluded with a discussion about future meetings and a reminder to use the appropriate communication channels.
+
+## Action Items
+1. Approve previous meeting minutes by anonymous consensus.
+2. Review and provide feedback on the charter within one week.
+3. Send the approved charter for oversight approval.
+4. Prepare a press release upon receiving oversight approval.
+5. Transition to watercolor sessions, which will not be recorded.
+6. Continue using appropriate communication channels (email, discord).
+
+## Timeline of Topics Discussed
+1. Voting on approving previous meeting minutes.
+2. Update from standards register team.
+3. Msf membership update.
+4. Charter discussion and updates.
+5. Use case matrix development.
+6. Avatar and character translation framework development.
+7. Physical simulation properties exploration.
+8. Measures, materials, textures, and social structures and animations definition.
+9. Optimizations investigation.
+10. Baseball metadata requirements definition.
+11. Milestone plan discussion.
+12. Listing of organizations and companies involved in the initiative.
+13. Communication plan discussion.
+14. Risk factors identification and mitigation strategies.
+15. Funding opportunities exploration.
+16. Annual reports preparation for oversight.
+
+## Notes
+- The working group will focus on real time rendering use cases and will not include other cases such as medical use cases that correct your additional capabilities, such as the definition of internal organs.
+- The translation framework is intended to be an effective vehicle to build consensus on common data representations and guidelines for avatar and character data, interoperability.
+- The working group will renew its membership every 24 months and send annual reports to the oversight committee and the Forum.
+

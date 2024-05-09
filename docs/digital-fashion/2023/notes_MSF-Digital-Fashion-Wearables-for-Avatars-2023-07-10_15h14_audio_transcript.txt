@@ -1,0 +1,24 @@
+# Summary
+Metaverse Standards Forum Digital Fashion Wearables for Avatars working group meeting summary.
+
+- The group is setting up a mirror board to brain dump all notes from the Msf Dashboard.
+- They recommend using Share X for screenshotting and organizing notes.
+- The goal is to reduce friction between different notes and meetings, making it easier to access information.
+- The group discusses creating categories relevant to digital fashion wearables for avatars on their mirror board.
+- They mention the importance of reducing the number of clicks needed to access meeting notes.
+- The group shares ideas about using wearables as a way to gamify building the metaverse and explore different worlds.
+- They plan a field trip to the V Kit, a virtual market festival, for learning purposes.
+- The group suggests organizing meetings between me (the by weeklies) and other groups to coordinate field trips and share information.
+- They discuss adding meeting notes to their mirror board as posters and exporting them to Jpeg format.
+- The group decides to upload the poster Jpegs to the Github repo, turning them into world building assets.
+- The meeting ends with appreciation for everyone's participation.
+
+# Action Items
+1. Convert Powerpoint versions of meetings 7 and 8 to Pdf.
+2. Add images from the posters to the Github repository.
+3. Organize meetings between me (the by weeklies) and other groups to coordinate field trips and share information.
+4. Upload poster Jpegs to the Github repo as world building assets.
+5. Create categories relevant to digital fashion wearables for avatars on their mirror board.
+6. Plan a field trip to the V Kit, a virtual market festival, for learning purposes.
+7. Continue filling up the mirror board with meeting notes and export them to Jpeg format.
+

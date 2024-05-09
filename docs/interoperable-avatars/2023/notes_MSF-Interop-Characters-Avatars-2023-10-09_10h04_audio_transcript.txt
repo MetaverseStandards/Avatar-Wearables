@@ -1,0 +1,36 @@
+# Summary
+The Interoperable Characters and Avatars group meeting discussed various topics, including updates on speaker outreach, the use case matrix, and future meetings. The group also shared their progress through a quad chart and coordinated with other domain groups. They emphasized the importance of collaboration and communication within the group and with external organizations.
+
+# Action Items
+1. Update the speaker outreach for upcoming education sessions.
+2. Continue working on the use case matrix, focusing on detailing each use case using a template recommendation.
+3. Assign specific use cases to members for further research and development.
+4. Add a column for supporters in the use case matrix to prioritize certain use cases.
+5. Update the learning section name from "education" to "e-learning."
+6. Share the quad chart with the oversight team for strategic reviews.
+7. Coordinate with other domain groups, such as web architecture and data protection, authentication, optimization.
+8. Create blog posts based on the group's progress and share them publicly.
+9. Schedule future meetings to cover C.Sdn Pdp audience with the same meeting content.
+10. Use email for major discussions and Discord for quick conversations within the group.
+
+# Timeline of Topics Discussed
+1. Introduction and agenda overview
+2. Approval of previous meeting minutes
+3. Update on speaker outreach
+4. Discussion on use case matrix
+5. Assignment of specific use cases to members
+6. Addition of a column for supporters in the use case matrix
+7. Update of learning section name from "education" to "e-learning"
+8. Sharing of quad chart with oversight team for strategic reviews
+9. Coordination with other domain groups
+10. Creation of blog posts based on group's progress and sharing them publicly
+11. Future meeting updates
+12. Closing remarks and availability for chat afterwards
+
+# Notes
+- The group is focused on interoperable characters and avatars within the metaverse.
+- They are working on a use case matrix to identify industries and specific use cases that can be supported by their framework.
+- Members are encouraged to collaborate and communicate effectively within the group and with external organizations.
+- The group emphasizes the importance of prioritizing certain use cases and assigning them to members for further development.
+- They plan to create blog posts based on their progress and share them publicly to encourage more participation from outside organizations.
+

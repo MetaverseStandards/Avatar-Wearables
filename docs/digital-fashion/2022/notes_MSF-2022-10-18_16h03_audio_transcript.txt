@@ -1,0 +1,21 @@
+# Summary
+The Metaverse Standards Forum Digital Fashion Wearables for Avatars working group held its first meeting to discuss the proposal and create a charter. The main focus of the discussion was on creating standards for digital fashion wearables that can be used in multiple metaverses, ensuring interoperability between different platforms.
+
+# Action Items
+1. Isak and Aditya will present their pipelines at the next meeting.
+2. Reach out to teams building software for arbiters and clothing to invite them on calls and gather feedback on the proposal.
+3. Consider the hierarchy of Rigs as a default one.
+4. Look at the Unity documentation from the point of view of how to connect the Rig hierarchy with Unity Neck.
+5. Prepare a draft of the charter where ideas can be put and read the proposal to suggest something in this future charter.
+
+# Timeline Summary
+- Introduction and overview of the meeting
+- Discussion on legal restrictions and guidelines for the working group
+- Presentation of pipelines by Isak and Aditya
+- Suggestion to create a clothing changing app as an open source tool
+- Partnership suggestions with teams building software for arbiters and clothing
+- Emphasis on creating standards for digital fashion wearables in multiple metaverses
+- Consideration of the hierarchy of Rigs as a default one
+- Look at the Unity documentation from the point of view of how to connect the Rig hierarchy with Unity Neck
+- Preparation of a draft charter where ideas can be put and read the proposal to suggest something in this future charter
+

@@ -1,0 +1,36 @@
+
+**Speaker:** Hideaki Eguchi
+
+**Time:** 10:30 AM PDT / 7:30 PM CEST
+
+**Location:** Online via Zoom
+
+**Attendees:**
+- Hideaki Eguchi
+- Kittyaki
+- Donghoon Han
+- Samsara (Samsung)
+- VRMC: Hideaki Eguchi
+
+**Agenda:**
+1. Introduction and welcome
+2. Review of previous meeting minutes
+3. Update on use case metrics process
+4. Discussion on privacy and security considerations for the template
+5. Wrap-up session
+6. Next meeting details
+7. Closing remarks
+
+**Notes:**
+- The meeting started with an introduction of the attendees and a brief overview of the agenda.
+- The previous meeting minutes were reviewed, and any updates or corrections were made.
+- An update on the use case metrics process was provided, including the current status of the template and the standard register. It was mentioned that all documents related to the task force will be moved to one Google drive folder under the Metavastanis Forum.
+- A discussion on privacy and security considerations for the template took place. The attendees brainstormed potential issues, such as impersonation, unintended use of avatars, age restrictions, regional restrictions, and brand restrictions. It was suggested to create a separate section in the template for these concerns.
+- The attendees were encouraged to add more privacy and security considerations to the list provided during the meeting.
+- The next steps for the task force were discussed, including the need to enroll members who will work on detailed use case templates. It was mentioned that a ballot process would be initiated after this meeting.
+- The attendees were reminded to use the group email for major discussions and the discord channel for quick conversations.
+- The attendees were asked if they found the event through the email or calendar invite sent by the task force. It was noted that a closer notification was sent for this meeting.
+- The attendees discussed the timing of the meetings, considering different time zones. It was suggested to try promoting the event more and giving multiple reminders to increase participation.
+- The attendees were reminded about the next meeting details, including the speaker session with Reallusion's character creator.
+- The meeting concluded with a thank you to the attendees for their time and participation.
+

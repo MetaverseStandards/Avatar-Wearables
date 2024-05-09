@@ -1,0 +1,19 @@
+
+**Participants:**
+- Hideaki Eguchi (VRMC)
+- Yasushi Minoya (Sony)
+- Katsuyuki Uchimura (Sony)
+- Tracy Chan (Interop Characters Avatars Metaverse Standards Forum)
+- Evan Lee (Interop Characters Avatars Metaverse Standards Forum)
+- Zanya Chaudhary (Interop Characters Avatars Metaverse Standards Forum)
+- Hadi Shan (Interop Characters Avatars Metaverse Standards Forum)
+
+**Summary:**
+The meeting began with an introduction of the participants and a brief overview of the Interop Characters Avatars Metaverse Standards Forum. The focus was on discussing use cases related to virtual characters, specifically Non-Player Characters (NPCs), chat bots, virtual singers, and bandmates.
+
+The first use case presented was for NPCs in gaming environments. It included a summary of the use case, key benefits, scenarios, and keywords. The participants discussed the differences between NPCs and chat bots, as well as the need to clarify these distinctions in the document.
+
+The second use case presented was for virtual singers and bandmates. This use case focused on the creation of virtual musicians and bands that can perform live concerts or create music together. The participants discussed the challenges of integrating this technology into existing music production workflows.
+
+The meeting concluded with a discussion of the remaining items, including detailed use case allocations and the process for contributing to the document. The participants were encouraged to collaborate on specific use cases and provide feedback through the working group portal or discord channel. The next meetings were scheduled for April 20th and May 6th.
+

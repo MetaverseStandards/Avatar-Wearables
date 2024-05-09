@@ -1,0 +1,27 @@
+# Digital Fashion Wearables for Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting was focused on the creation of a flow chart and document to guide the group's work. The goal is to reduce fragmentation between standards and practitioners for avatar wearables, including understanding different layering systems and defining a system for interoperable fashion variables. The group discussed creating recommendations rather than creating a system themselves, as well as encouraging communication between practitioners with key technologies.
+
+## Action Items
+1. Create a set of recommendations for relevant standards for this.
+2. Encourage communication between practitioners with key technologies to support variable use cases.
+3. Define a system for interoperable fashion variables.
+4. Gather guidelines, resources for optimization targets based on various platform documentation.
+5. Review and finalize the charter document and submit it as a working group.
+6. Set up a github issue for suggestions and comments.
+7. Create a virtual war room to make notes more easily digestible and accessible.
+8. Schedule the next meeting for July 10th, by weekly.
+9. Encourage all group members to review the document and add more comments.
+
+## Timeline of Topics Discussed
+1. Introduction and logistics (00:00:04.590 --> 00:00:47.119)
+2. Code of conduct and meeting guidelines (00:00:47.500 --> 00:03:08.600)
+3. Tentative agenda for the meeting (00:03:08.600 --> 00:03:29.720)
+4. Discussion on creating a flow chart and document (00:03:29.940 --> 00:10:02.989)
+5. Github issue for suggestions and comments (00:10:02.989 --> 00:11:04.129)
+6. Discussion on non-humanoid avatars (00:11:04.129 --> 00:13:55.270)
+7. Discussion on extending the current use of variables with an avatar (00:13:55.270 --> 00:16:00.330)
+8. Discussion on defining goals and different milestones (00:16:00.330 --> 00:18:49.680)
+9. Scheduling the next meeting (00:18:49.680 --> 00:20:57.000)
+

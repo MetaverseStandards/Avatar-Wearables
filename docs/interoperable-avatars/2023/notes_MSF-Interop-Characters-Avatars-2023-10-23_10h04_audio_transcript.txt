@@ -1,0 +1,31 @@
+# Meeting Summary
+The Interoperable Characters and Avatars group of the Metaverse Standards Forum held a meeting to discuss various topics related to their work. The meeting was recorded, including all slide decks, and uploaded to YouTube for future reference.
+
+## Action Items:
+- Members who are in good standing will receive an invite to participate in the voting process for the upcoming election.
+- Members are encouraged to provide their inputs on the use case matrix spreadsheet.
+- Members interested in contributing to specific use cases can team up and share workload.
+- Members are asked to add their names as supporters to existing use cases or create new ones.
+- Members from the Privacy, Cybersecurity, and Identity working group are encouraged to collaborate with other groups on use case design.
+
+## Meeting Timeline:
+1. Voting on approving previous meeting minutes
+2. Updates on Speaker outreach
+3. Election updates and current state of press release content
+4. Brainstorming session for the use case matrix
+5. Template recommendation from the Standards Registered group
+6. Discussion on the use of industry fields in the use case matrix
+7. Homework assignment for members to contribute to specific use cases
+8. Privacy, Cybersecurity, and Identity working group engagement with other groups
+9. Educational session on common privacy issues and considerations
+10. Future meetings and briefs schedule
+11. Exploratory group tools and resources update
+
+## Notes:
+- The press release draft is currently going through a pipeline of approvals.
+- Members are encouraged to provide their inputs on the use case matrix spreadsheet.
+- Members interested in contributing to specific use cases can team up and share workload.
+- Members are asked to add their names as supporters to existing use cases or create new ones.
+- Members from the Privacy, Cybersecurity, and Identity working group are encouraged to collaborate with other groups on use case design.
+- An educational session on common privacy issues and considerations is suggested.
+

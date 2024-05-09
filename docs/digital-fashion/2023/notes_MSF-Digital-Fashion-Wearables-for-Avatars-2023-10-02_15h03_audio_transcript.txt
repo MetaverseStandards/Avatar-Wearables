@@ -1,0 +1,28 @@
+# Metaverse Standards Forum Digital Fashion Wearables for Avatars Meeting Summary
+
+## Overview
+The meeting started with an introduction and a reminder that the discussion should not involve any specific license rates, terms of conditions, or product prices. The group discussed their goals and plans to become more interactive and practical in their meetings. They also emphasized the importance of compliance with all applicable laws, including antitrust and competition laws.
+
+## Action Items
+1. Invite more people to join the discussions and share information about events, hosting, or industry happenings.
+2. Continue exploring different perspectives on digital fashion wearables, such as user experience, creator perspective, and platform building.
+3. Collect use cases for a matrix documenting various approaches to digital fashion wearables.
+4. Submit the revised charter document to the oversight committee for approval.
+5. Send out an email with the link to the charter document and notify members about the next meeting agenda.
+
+## Timeline of Topics Discussed
+1. Introduction and compliance guidelines (00:00:03.260 - 00:00:28.890)
+2. Goals and plans for the group (00:00:29.060 - 00:01:06.099)
+3. User experience in digital fashion wearables (00:01:06.100 - 00:01:58.600)
+4. Creator perspective and platform building (00:01:58.600 - 00:02:22.379)
+5. Presentation on open source avatar customizer tool (00:02:22.550 - 00:04:15.339)
+6. Discussion on use case matrix and alignment with the Avatar group (00:04:15.339 - 00:04:37.880)
+7. Vote to approve the charter document for submission (00:04:37.880 - 00:04:54.369)
+8. Next steps and plans for future meetings (00:04:54.369 - 00:05:08.180)
+
+## Notes
+- The group aims to become more interactive and practical in their meetings.
+- They plan to explore different perspectives on digital fashion wearables, such as user experience, creator perspective, and platform building.
+- A presentation was given on an open source avatar customizer tool that can export VRMS.
+- The group discussed the importance of compliance with all applicable laws, including antitrust and competition laws.
+

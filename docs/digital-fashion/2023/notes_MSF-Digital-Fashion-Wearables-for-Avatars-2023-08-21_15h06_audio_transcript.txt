@@ -1,0 +1,29 @@
+# Meeting Summary
+## Overview
+The meeting was about discussing the use case matrix and translation framework for the Digital Fashion Wearables for Avatars working group within the Medical Standards Forum. The goal was to create a comprehensive set of use cases that would add value to all the actors present in the digital fashion space, such as software creators, digital fashion designers, avatar companies, and brands.
+
+## Action Items
+1. Create a document listing all the events happening within the Medical Standards Forum and related interest groups.
+2. Proactively reach out to other communities and projects related to digital fashion and standards to increase collaboration and awareness.
+3. Update the current charter with the use case matrix and translation framework.
+4. Set up a resource library for wearables, including DCL files, voxels, and documentation from various sources.
+5. Encourage members of the working group to contribute to creating a translation framework by reviewing the provided link and providing feedback or modifications.
+6. Put the updated charter up for vote within the working group.
+7. Schedule non-official outreach meetups with other communities and projects related to digital fashion and standards.
+8. Join the Avatar Interrupt group at 8 pm Eastern tomorrow night.
+
+## Timeline of Topics Discussed
+1. Introduction and logistics
+2. Reviewing the charter draft and discussing ways to add value through a use case matrix and translation framework
+3. Discussion on the need for more frequent outreach activities within the working group
+4. Proposal for creating a resource library for wearables
+5. Encouraging members of the working group to contribute to creating a translation framework
+6. Putting the updated charter up for vote within the working group
+7. Scheduling non-official outreach meetups with other communities and projects related to digital fashion and standards
+8. Closing remarks and next steps
+
+## Notes
+1. The use case matrix should include all the actors involved in the digital fashion space, such as software creators, digital fashion designers, avatar companies, and brands.
+2. The translation framework should serve as a center point where everyone can contribute to building new use cases or thinking of used cases in different workflows.
+3. The resource library for wearables should include DCL files, voxels, and documentation from various sources to facilitate prototyping and collaboration within the digital fashion space.
+

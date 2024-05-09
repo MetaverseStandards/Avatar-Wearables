@@ -1,0 +1,36 @@
+# Interop Characters Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The Interop Characters Avatars Metaverse Standards Forum held its Eleventh working group meeting to discuss interoperable characters and avatars. The meeting was attended by members from various organizations, including Sony, Samsung, and Creator. The agenda included approving previous meeting minutes, updates on the working group web pages, press release, and high-level use case metrics.
+
+## Action Items
+1. Approve previous meeting minutes.
+2. Update the working group web pages.
+3. Share the link to the live press release.
+4. Collect member statements for the press release.
+5. Continue work on the high-level use case matrix and detailed use cases.
+6. Invite members from other organizations to contribute to the working group activities.
+7. Promote the Interop Characters Avatars Metaverse Standards Forum web page and press release within their networks.
+8. Encourage members to share their thoughts on the presentation content.
+9. Follow up with John Roodt regarding his suggestions for color coding in the use case matrix.
+10. Schedule upcoming meetings for the European and American audiences.
+
+## Timeline of Topics Discussed
+1. Approval of previous meeting minutes.
+2. Updates on the working group web pages.
+3. Press release updates.
+4. High-level use case metrics.
+5. Detailed use cases.
+6. Invitation to educational sessions.
+7. Future meetings and briefs.
+8. Q&A session.
+
+## Notes
+1. The Interop Characters Avatars Metaverse Standards Forum is focused on creating standards for interoperable characters and avatars in the metaverse.
+2. Members from various organizations, including Sony, Samsung, and Creator, attended the meeting.
+3. The working group web pages were updated to provide a one-to-one mapping of the blog draft with the live web page.
+4. A press release was released on February 9, 2024, after receiving approval from Neil and the oversight team.
+5. Members are encouraged to contribute statements for the press release and detailed use cases.
+6. Upcoming meetings will be scheduled for both European and American audiences.
+7. The meeting concluded with a Q&A session where members shared their thoughts on the presentation content.
+

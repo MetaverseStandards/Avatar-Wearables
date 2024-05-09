@@ -1,0 +1,40 @@
+# Interop Characters Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting was the fifth interoperable characters, avatars looking group meeting of the Metaverse Standards Forum. The purpose of the meeting was to discuss updates on speaker outreach and member proposals, as well as to hold an educational session with Realusion.
+
+## Action Items
+- Approve previous working group meeting minutes
+- Confirm session from Nokia on Mpeg, Vdmc for avatar creation
+- Invite more relevant speakers for the working group
+- Continue exploring key features of Character Creator 4 by Realusion
+- Utilize the character creator format in project files
+- Reach out to members who have interest in certain use case modules
+- Schedule the next biweekly meeting with Central European and Pacific time availability
+
+## Timeline of Topics Discussed
+1. Approving previous working group meeting minutes
+2. Speaker outreach updates, including an education session with Realusion
+3. Member proposal updates
+4. Education Session: Characters for the Metaverse with Realusion
+5. Introduction to John Martin from Realusion
+6. Overview of character Creator by Priscilla Angelique
+7. Q&A session with John Martin and Priscilla Angelique
+8. Discussion on web platform support for Character Creator 4
+9. Real-time animation capabilities of Character Creator 4
+10. Customization options in Character Creator 4, including clothing and skin tools
+11. Digital doubles and digital humans creation with Character Creator 4
+12. Collaboration with other companies for character and animation solutions
+13. Introduction to Headshot 2 for head creation in both image and mesh formats
+14. Acu Face for facial animation with video, either live or recorded
+15. Final wrap-up of the meeting
+
+## Notes
+- Real-time digital human animation workflows with Reallusion partners
+- Character Creator 4 is a universal character system suitable for various use cases
+- Customization options in Character Creator 4 include morphing, skin tools, and clothing systems
+- Digital doubles and digital humans can be created using Character Creator 4
+- Real-time animation capabilities of Character Creator 4 enable fast iteration and sharing
+- Headshot 2 allows for head creation from both image and mesh formats
+- Acu Face enables facial animation with video, either live or recorded
+

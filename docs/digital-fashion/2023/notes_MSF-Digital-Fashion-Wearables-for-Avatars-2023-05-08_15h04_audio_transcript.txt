@@ -1,0 +1,25 @@
+# Summary
+The Metaverse Standards Forum Digital Fashion Wearables for Avatars working group held a meeting to discuss interoperability of digital fashion and avatars across various platforms. The main topics discussed were the challenges faced in making digital fashion wearables compatible with different platforms, the need for an open standard for interoperability, and the importance of incentivizing web 2 users to transition to web 3 platforms.
+
+# Action Items
+1. Continue working towards creating an open standard for interoperability across various platforms.
+2. Incentivize web 2 users to transition to web 3 platforms by offering benefits and rewards for using digital fashion wearables on these platforms.
+3. Explore the possibility of creating a content pipeline as a service that can generate and process different versions of digital fashion wearables for various platforms.
+4. Investigate the use of distributed file systems like Ipfs to ensure redundancy and maintain the value of digital fashion assets over time.
+5. Encourage the creation of hard copies or backups of digital fashion wearables to prevent loss due to platform changes or technical issues.
+6. Consider implementing a cache version of digital fashion wearables on web 2 platforms for faster retrieval and improved user experience.
+7. Explore the possibility of using insurance through clubs and Ft. to protect against potential losses of digital fashion assets.
+8. Continue researching and discussing the challenges and opportunities related to interoperability in the digital fashion space.
+
+# Timeline of Topics Discussed
+1. Introduction and meeting logistics (00:00:13.790 - 00:00:40.600)
+2. Legal pointers and guidelines for the discussion (00:01:07.730 - 00:01:25.500)
+3. Presentation by Shibom of Xr Couture on digital fashion wearables interoperability (00:02:01.830 - 00:19:46.780)
+4. Discussion on the challenges faced in making digital fashion wearables compatible with different platforms (00:19:46.780 - 00:25:03.610)
+5. Discussion on the need for an open standard for interoperability across various platforms (00:25:03.610 - 00:30:12.860)
+6. Discussion on incentivizing web 2 users to transition to web 3 platforms (00:30:12.860 - 00:47:00.560)
+7. Discussion on the possibility of creating a content pipeline as a service for digital fashion wearables (00:47:00.560 - 00:53:00.560)
+8. Discussion on the use of distributed file systems like Ipfs to ensure redundancy and maintain the value of digital fashion assets over time (00:53:00.560 - 00:54:19.190)
+9. Discussion on the importance of creating hard copies or backups of digital fashion wearables to prevent loss due to platform changes or technical issues (00:54:19.190 - 00:56:20.770)
+10. Discussion on the possibility of using insurance through clubs and Ft. to protect against potential losses of digital fashion assets (00:56:22.940 - 00:57:04.630)
+

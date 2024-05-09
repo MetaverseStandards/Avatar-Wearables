@@ -1,0 +1,22 @@
+# Meeting Summary
+The Interoperable Characters Avatars Metaverse Standards Forum held its Tenth Working Group meeting, discussing various topics related to their focus on interoperability and standardization in the metaverse. The meeting covered updates on Speaker Outreach, Member Proposal, educational sessions, working group web pages, press releases, high-level use case metrics, detailed use cases, and invitations for other educational sessions.
+
+## Action Items
+1. Increase speaker outreach for the working group activities.
+2. Invite potential speakers to contribute to tech topics related to their 1,000 characters focus.
+3. Review and provide inputs on the Forum website draft.
+4. Contribute statements to the Member Statements document.
+5. Wrap up the high-level use case matrix by end of this month.
+6. Take a second pass at the detailed use case document, including cherry picking from previously done documents.
+7. Confirm educational sessions for Code Threed Asset Improbability and Fashion Variables for Code Threed Asset Improbability on March 6th, 2024.
+8. Use the group email for major communications and the discord for quick conversations.
+
+## Timeline of Topics Discussed
+1. Speaker Outreach: Increase outreach to potential speakers for working group activities.
+2. Member Proposal: Invite members interested in contributing to tech topics related to their 1,000 characters focus.
+3. Educational Sessions: Present an educational session on Itu focused group on Meta was exploring Meta standardization.
+4. Working Group Web Pages: Share updates on working group web pages and press releases.
+5. High-Level Use Case Metrics: Discuss high-level use case metrics and state of detailed use cases.
+6. Detailed Use Cases: Invite contributions to the detailed use case document.
+7. Invitation for Other Educational Sessions: Invite speakers for educational sessions on Code Threed Asset Improbability and Fashion Variables for Code Threed Asset Improbability.
+

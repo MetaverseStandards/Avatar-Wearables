@@ -1,0 +1,32 @@
+# Interop Characters Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting was about the Interoperable Characters and Avatars group of the Metaverse Standards Forum. The main topics discussed were:
+- Voting to approve previous meeting minutes
+- Guest speaker session on how characters are used in virtual markets
+- Charter updates since the last few meetings
+- Outreach updates for guest speakers
+- Member proposal open for presentations on specific content or technology
+- Session timing management and Q&A
+
+## Action Items
+1. Vote to approve previous meeting minutes by anonymous consensus
+2. Confirm guest speaker sessions for upcoming meetings
+3. Share the Google Doc link with members for comments gathering
+4. Keep everyone updated through email on charter updates and session timings
+5. Use mailing list (characters underscore up to us@list.medavo cycles) for major discussions
+6. Utilize discord channel (Interpretable Characters in the Matter with Standards Forum discord) for quick conversations
+
+## Timeline of Topics Discussed
+1. Voting to approve previous meeting minutes
+2. Guest speaker session on how characters are used in virtual markets
+3. Charter updates since the last few meetings
+4. Outreach updates for guest speakers
+5. Member proposal open for presentations on specific content or technology
+6. Session timing management and Q&A
+
+## Notes
+- The meeting was held to discuss the Interoperable Characters and Avatars group's agenda, including voting to approve previous meeting minutes, guest speaker sessions, charter updates, outreach updates for guest speakers, member proposal open for presentations on specific content or technology, session timing management, and Q&A.
+- The guest speaker session focused on how characters are used in virtual markets and the current trends in character closes.
+- The meeting also discussed the need for standard specifications for naming conventions to improve interoperability between different character models.
+

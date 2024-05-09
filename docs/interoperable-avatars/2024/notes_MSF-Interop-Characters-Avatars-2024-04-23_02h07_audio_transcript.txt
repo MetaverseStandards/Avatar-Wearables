@@ -1,0 +1,49 @@
+# Metaverse Standards Forum: Interoperable Characters and Avatars Working Group Meeting
+
+## Overall Summary
+This was the 16th meeting of the Interoperable Characters and Avatars working group. Key agenda items included approving previous meeting minutes (to be done over email), updates on speaker outreach and member proposals, glossary contribution process, detailed use case updates on digital human chatbots, virtual singers/bandmates, and NPCs, as well as allocating new use cases to members. Updates were also provided from the recent presentation to the Digital Fashion Avatars group, discussing potential synergies between the two groups. Upcoming meeting dates, working group resources, and communication channels were shared.  
+
+- Approval of previous meeting minutes (via email)
+- Speaker outreach updates, including potential sessions from privacy/security group, Pixar/USD
+- Process overview for ICA glossary contributions 
+- Detailed use case updates: digital human chatbots, virtual singers/bandmates, NPCs
+- Allocating new detailed use cases to members as owners/supporters
+- Presentation updates to Digital Fashion Avatars group 
+- Discussion on increasing collaboration and synergies between the groups
+- Upcoming meetings: May 6th (speaker session), May 20th
+- Working group portal, mailing list, Discord channel  
+
+## Action Items
+- Review and approve previous meeting minutes over email 
+- Contribute terms/definitions to the ICA glossary document
+- Provide inputs/feedback on digital human chatbot, virtual singer/bandmate, NPC use cases
+- Add names to allocation sheet for volunteering as use case owners/supporters
+- Explore opportunities for closer collaboration with Digital Fashion Avatars group
+
+## Timeline Overview
+- Meeting opening, agenda review
+- Previous meeting minutes approval process (via email) 
+- Speaker outreach updates: privacy/security group (May 6th), potential Pixar/USD session
+- ICA glossary contribution process overview and links
+- Digital human chatbot use case update (recording from previous session)  
+- Virtual singers/bandmates use case update by Hideaki Eguchi
+  - Structuring content for readability, scenario details
+  - Link to potential "afterlife" AI avatar use case  
+- NPC use case update by Zeno
+  - Differentiating NPCs vs chatbots (context, interactivity, design, purpose)
+  - Incorporating feedback on device/platform neutrality
+- New use case allocation to members as owners/supporters
+- Digital Fashion Avatars presentation recap  
+  - Discussion on synergies: coordinated deliverables, roadmaps 
+  - Suggestion to align facial animation guidelines timeline
+- Next meetings: May 6th (speaker session), May 20th
+- Working group resources: portal, mailing list, Discord
+
+## Notes
+- Ensuring terminology consistency across use cases via ICA glossary  
+- Persistence of NPC interactions and world state across user sessions  
+- Categorizing actors/entities based on production phases for readability
+- Generic terms for devices/platforms vs mentioning specific brands  
+- Gltf extensions for personality, AI behaviors (shared by OMI group)
+- Opportunities: fashion avatars, virtual try-ons, digital humans
+- Importance of examples, visuals to supplement use case documentation

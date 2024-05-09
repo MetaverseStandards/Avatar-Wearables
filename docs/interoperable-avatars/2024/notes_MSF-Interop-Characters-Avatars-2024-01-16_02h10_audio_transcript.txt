@@ -1,0 +1,40 @@
+# Meeting Summary
+The Metaverse Standards Forum Interoperable Avatars and Characters group meeting focused on the following topics:
+1. Approval of previous meeting minutes
+2. Speaker outreach updates
+3. Member proposal
+4. Updates for working group web pages, press release, and highlights release
+5. State of the high level use case matrix
+6. Detailed use cases and roadmap field trips
+7. Intermittent deliverables (press releases, video, blog articles)
+8. Field trips for the group
+9. Future meetings and briefs
+10. Exploratory group tools and resources
+
+# Action Items
+- Approve previous meeting minutes
+- Update working group web pages, press release, and highlights release
+- Work on member proposal
+- Continue speaker outreach efforts
+- Plan field trips for the group
+- Prepare intermittent deliverables (press releases, video, blog articles)
+
+# Timeline of Topics Discussed
+1. Approval of previous meeting minutes
+2. Speaker outreach updates
+3. Member proposal
+4. Updates for working group web pages, press release, and highlights release
+5. State of the high level use case matrix
+6. Detailed use cases and roadmap field trips
+7. Intermittent deliverables (press releases, video, blog articles)
+8. Field trips for the group
+9. Future meetings and briefs
+10. Exploratory group tools and resources
+
+# Notes
+- The meeting focused on approving previous meeting minutes, speaker outreach updates, member proposal, updates for working group web pages, press release, and highlights release, state of the high level use case matrix, detailed use cases and roadmap field trips, intermittent deliverables (press releases, video, blog articles), planning field trips for the group, future meetings and briefs, exploratory group tools and resources.
+- The group discussed the importance of creating guidelines for different character or other components in a non-invasive way.
+- They also explored the idea of having a presence for a physical robot and having a body language performance within a group environment.
+- The meeting participants were encouraged to explore field trips for the group, with a focus on virtual events due to the global audience.
+- The next meetings will be held on January 9th and February 12th, with Central European time being favored if there is willingness from all attendees.
+

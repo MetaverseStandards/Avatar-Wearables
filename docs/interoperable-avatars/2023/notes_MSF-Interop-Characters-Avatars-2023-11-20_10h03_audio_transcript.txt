@@ -1,0 +1,34 @@
+# Interop Characters Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting was about the Interoperable Characters and Avatars working group under the Metaverse Standards Forum. The agenda included voting on previous meeting minutes, speaker outreach updates, principal member agreement renewal, working group web pages updates, press release content, use case matrix, and future meeting planning.
+
+## Action Items
+1. Renew principal member agreements by December 30th.
+2. Update the working group web pages based on the provided template.
+3. Create a glossary for industry-specific terms related to virtual experiences.
+4. Attend the upcoming speaker session on December 4th at 11 PM Central European Time.
+5. Collaborate with other working groups, such as Fashion Variables and Snapchat, to gather data points for use cases.
+6. Work with Patrick from Snapchat on virtual Try-On use case.
+7. Continue researching and collecting data points for the avatar and character translation framework.
+8. Share any questions or concerns via email with the working group.
+
+## Timeline of Topics Discussed
+1. Voting on previous meeting minutes (approved)
+2. Speaker outreach updates (confirmed session on December 4th)
+3. Principal member agreement renewal (due by December 30th)
+4. Working group web pages updates (ongoing process)
+5. Press release content updates (awaiting approval from Need and Oversight)
+6. Use case matrix updates (ongoing process)
+7. Future meeting planning (Speaker session on December 4th at 11 PM Central European Time)
+8. Collaboration with other working groups (Fashion Variables and Snapchat)
+9. Virtual Try-On use case collaboration with Patrick from Snapchat
+10. Research and data collection for avatar and character translation framework
+
+## Notes
+- The meeting was recorded, and the recording can be accessed offline through the Metaverse Standards Forum portal.
+- The working group web pages are being developed to provide content such as meeting videos, meeting minutes, session summaries, chat information, relevant videos, work in progress details, upcoming deliverables, and additional resources.
+- The use case matrix is currently being worked on, with a focus on virtual stage production, NPC and Avatar music audience, and other potential areas.
+- Members are encouraged to take ownership of specific use cases or topics by adding their name as the owner or supporter in the provided template.
+- The working group portal provides access to all documents, meetings, recordings, and minutes related to the Metaverse Standards Forum.
+

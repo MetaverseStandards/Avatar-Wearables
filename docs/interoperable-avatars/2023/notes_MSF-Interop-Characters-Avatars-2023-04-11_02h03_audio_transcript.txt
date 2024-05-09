@@ -1,0 +1,34 @@
+# Interop Characters Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting was about discussing the interoperability of avatars and characters in the metaverse, focusing on the Vrm format for 3D models. The speakers were from Pixel Inc., a company specializing in humanized 3D models, and Fashion Variables Exploratory Group.
+
+## Key Points
+1. The meeting was recorded and available for later access.
+2. The agenda included approving the minutes of the previous meeting, outreach plans updates, member proposals, session time management, future meetings, and briefs on the exploratory group tools.
+3. The speakers discussed the design philosophy, implementation, and use cases of Vrm, highlighting its platform independence, expressiveness, and active creation and exchange of model data.
+4. Challenges faced by Vrm include balancing interoperability and expressiveness, improving model loading performance, and addressing module protection issues.
+5. The meeting also covered the need for collaboration between different avatar systems and platforms to create a more seamless experience for users.
+
+## Action Items
+1. Approve the minutes of the previous meeting by anonymous consensus.
+2. Complete outreach to speakers in the exploratory group by end of the week.
+3. Encourage members to present their proposals in the upcoming meetings.
+4. Discuss and address challenges faced by Vrm, such as balancing interoperability and expressiveness, improving model loading performance, and addressing module protection issues.
+5. Collaborate with other avatar systems and platforms to create a more seamless experience for users.
+
+## Timeline of Topics Discussed
+1. Approval of previous meeting minutes
+2. Outreach plans updates
+3. Member proposals
+4. Session time management
+5. Future meetings and briefs on the exploratory group tools
+6. Challenges faced by Vrm
+7. Collaboration between different avatar systems and platforms
+
+## Notes
+1. The meeting was focused on discussing the interoperability of avatars and characters in the metaverse, with a focus on the Vrm format for 3D models.
+2. The speakers provided insights into the design philosophy, implementation, and use cases of Vrm, highlighting its platform independence, expressiveness, and active creation and exchange of model data.
+3. Challenges faced by Vrm include balancing interoperability and expressiveness, improving model loading performance, and addressing module protection issues.
+4. The meeting also covered the need for collaboration between different avatar systems and platforms to create a more seamless experience for users.
+

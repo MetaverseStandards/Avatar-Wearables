@@ -1,0 +1,32 @@
+# Interop Characters Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting was about the Interoperable Characters and Avatars group of the Metaverse Standards Forum. The main topics discussed were:
+- Voting on approving the previous meeting minutes
+- Updates on Speaker outreach and member proposal
+- Presentation of the high level use case matrix, industry mapping, and use case technology map
+- Discussion on the components of avatar and capital transition framework
+- Allocation of use cases to members for detailed use case development
+- Invitation to interested parties to join the group meetings
+
+## Action Items
+1. Vote on approving the previous meeting minutes
+2. Continue Speaker outreach efforts
+3. Develop detailed use cases for assigned use cases
+4. Attend future Metaverse Standards Forum meetings
+5. Join the Interoperable Characters and Avatars group meetings if interested
+
+## Timeline of Topics Discussed
+1. Voting on approving the previous meeting minutes
+2. Speaker outreach updates
+3. Presentation of high level use case matrix, industry mapping, and use case technology map
+4. Components of avatar and capital transition framework
+5. Allocation of use cases to members for detailed use case development
+6. Invitation to interested parties to join the group meetings
+
+## Notes
+- The meeting was recorded and will be posted on the Forum portal
+- The Interoperable Characters and Avatars group is focused on creating an interoperable experience where characters can travel across different virtual worlds
+- Members are encouraged to contribute use cases for the group's work
+- The group is working on a multi-year project with deliverables scheduled until September 2025
+

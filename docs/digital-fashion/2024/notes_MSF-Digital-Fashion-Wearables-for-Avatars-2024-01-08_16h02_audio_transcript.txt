@@ -1,0 +1,26 @@
+# Metaverse Standards Forum Digital Fashion Wearables for Avatars Working Group Meeting Summary
+
+## Overview
+- The group has been promoted from an exploratory group to a working group.
+- They will continue meeting every alternate Monday at 11 AM Eastern.
+- The group is following the same legal guidelines as before, and emphasizes interoperability and collaboration.
+
+## Action Items
+- No action items were discussed in this meeting.
+
+## Timeline of Topics Discussed
+1. Welcome and introduction (Aditya Mani)
+2. Meeting cadence and logistics (Aditya Mani)
+3. Legal guidelines for the working group (Aditya Mani)
+4. Introduction to Kelly Vero, digital fashion expert (Kelly Vero)
+5. Discussion on interoperability in digital fashion (Kelly Vero)
+6. Presentation of best practices in digital fashion (Kelly Vero)
+7. Overview of the workflow at naked (Kelly Vero)
+8. Future trends and standards in the industry (Kelly Vero)
+9. Q&A session with Kelly Vero
+10. Waste Framework Directive 2023 (Kelly Vero)
+11. Discussion on Tukatec software (Aditya Mani)
+12. Feedback on meeting time and date (Aditya Mani)
+13. Invitation to join the group or nominate a speaker (Aditya Mani)
+14. Closing remarks and next meeting details (Aditya Mani)
+

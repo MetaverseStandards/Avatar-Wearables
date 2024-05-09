@@ -1,0 +1,32 @@
+# Meeting Summary
+The Metaverse Standards Forum Interoperable Avatars and Characters group meeting was focused on discussing the progress of their work, upcoming deliverables, and addressing any concerns or feedback from members. The meeting covered a range of topics including statistics, education sessions, use case matrices, and future event activities.
+
+## Key Points:
+- The group discussed the importance of increasing attendance at meetings by implementing strategies such as scheduling meetings in advance, increasing Speaker sessions, and utilizing marketing techniques to attract more attendees.
+- They presented a roadmap for their work, highlighting the timeline for each deliverable and providing updates on the progress made so far.
+- The group emphasized the need for collaboration and feedback from members to ensure that the use case matrices are accurate and relevant to the industries they represent.
+- They discussed the possibility of creating a test bed for testing implementations, as well as exploring the idea of creating glossaries for specific use cases.
+- The meeting concluded with a reminder of upcoming events and activities, including field trips and watercolor sessions.
+
+## Action Items:
+1. Increase attendance at meetings by implementing strategies such as scheduling meetings in advance, increasing Speaker sessions, and utilizing marketing techniques to attract more attendees.
+2. Collaborate with members to ensure that the use case matrices are accurate and relevant to the industries they represent.
+3. Create a test bed for testing implementations and explore the idea of creating glossaries for specific use cases.
+4. Attend upcoming events and activities, including field trips and watercolor sessions.
+
+## Timeline Outline:
+1. Approval of previous meeting minutes (December 2, 2023)
+2. Speaker outreach member proposal updates
+3. Working group web pages updates
+4. Strategic review meeting with oversight team
+5. High level use case matrix updates
+6. Detailed use cases and plans for field trips and upcoming event trackers
+7. Future meetings and briefs
+8. Exploratory group tools and resources
+9. Questions and feedback from members
+
+## Notes:
+- The group is working on creating a unified framework for avatar and character transfers, which will facilitate the conversion of different formats and standards.
+- They are also developing a certification tool to verify if an avatar conforms to their translation framework.
+- The group is considering creating glossaries for specific use cases and exploring the idea of using bubble maps or hierarchical structures to represent the use cases in a more organized way.
+

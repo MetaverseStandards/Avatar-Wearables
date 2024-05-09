@@ -1,0 +1,29 @@
+# Interop Characters Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting was about the Interoperable Characters and Avatars group of the Metaverse Standards Forum. The main agenda items were approving previous meeting minutes, discussing updates on Speaker outreach and member proposal, sharing information about the working group web pages, and presenting the high-level use case matrix.
+
+## Action Items
+1. Approve the previous meeting minutes.
+2. Update the Speaker outreach sheet based on the exploratory group session and deliverables planned for upcoming bi-weekly sessions.
+3. Share the working group web pages with members.
+4. Continue discussing the high-level use case matrix, including industry mapping, technology mapping, and presentable view.
+5. Allocate detailed use case documents to members.
+6. Plan the agenda for the upcoming meeting with the Code 3D Asset Control Group.
+7. Discuss the structure of the educational session for the Code Threed Asset Improbability Group.
+8. Follow up on the fashion variable group's interest in learning more about VRM.
+9. Schedule a meeting with Neil and Patrick from Code to decide the structure for both characters and VRM sessions.
+10. Communicate the dates of the next two meetings (eleventh March and twenty-fifth March) to members.
+
+## Timeline Summary
+* Approve previous meeting minutes
+* Update Speaker outreach sheet
+* Share working group web pages with members
+* Continue discussing high-level use case matrix
+* Allocate detailed use case documents to members
+* Plan agenda for upcoming Code 3D Asset Control Group meeting
+* Discuss structure of educational session for Code Threed Asset Improbability Group
+* Follow up on fashion variable group's interest in learning more about VRM
+* Schedule meeting with Neil and Patrick from Code to decide structure for both characters and VRM sessions
+* Communicate dates of next two meetings (eleventh March and twenty-fifth March)
+

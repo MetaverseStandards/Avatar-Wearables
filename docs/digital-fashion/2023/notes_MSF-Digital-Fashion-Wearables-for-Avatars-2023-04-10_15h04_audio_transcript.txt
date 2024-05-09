@@ -1,0 +1,36 @@
+# Metaverse Standards Forum Digital Fashion Wearables for Avatars Working Group Meeting Summary
+
+## Overview
+The meeting was held to discuss the progress of the working group and to share ideas on future presentations, research discussions, etc. The main focus was on interoperability between different platforms and tools used in digital fashion and wearables.
+
+## Action Items
+1. Create a Github repository for documenting meeting notes and research findings.
+2. Schedule a workshop on using Github for collaboration and documentation purposes.
+3. Identify key participants, organizations, and brands relevant to the working group's focus.
+4. Continue outreach efforts to engage with potential collaborators and partners.
+5. Prepare a presentation on the charter for the next meeting.
+6. Alternate between members in running meetings and taking notes.
+7. Schedule the next meeting for 2 weeks from now, at the same time as the previous meetings.
+8. Confirm the meeting date and time for the next meeting: Monday, April 20th, at 10 PM Eastern Time.
+9. Continue exploring different virtual world platforms and tools to enhance collaboration and communication within the working group.
+
+## Timeline of Topics Discussed
+1. Introduction and overview of the meeting agenda.
+2. Review of previous meeting minutes and discussion on the charter.
+3. Presentation on Hyperfine platform for digital fashion wearables.
+4. Presentation on Github as a collaboration tool for documenting research findings.
+5. Discussion on potential participants, organizations, and brands relevant to the working group's focus.
+6. Outreach efforts and engagement with potential collaborators and partners.
+7. Scheduling of the next meeting and confirmation of the meeting date and time.
+8. Alternating between members in running meetings and taking notes.
+9. Continued exploration of different virtual world platforms and tools for collaboration and communication purposes.
+
+## Notes
+1. The working group is currently an exploratory group, aiming to become a working group by following the proper procedures and gaining approval from the oversight committee.
+2. The main goal of the working group is to create standards for digital fashion wearables and avatars interoperability.
+3. The working group encourages members to contribute their ideas and research findings through Github issues, which can help reduce coordination costs and achieve collective goals more efficiently.
+4. The working group plans to have a workshop on using Github for collaboration purposes, with the aim of making it easier for members to work together and share information effectively.
+5. The working group is open to exploring different virtual world platforms and tools to enhance collaboration and communication within the group, such as Hyperfine, VR Chat, and Unity 2.021.
+6. The working group encourages members to engage with potential collaborators and partners by sharing their work and ideas on relevant platforms and forums.
+7. The working group plans to continue its outreach efforts to engage with more participants, organizations, and brands relevant to the working group's focus.
+

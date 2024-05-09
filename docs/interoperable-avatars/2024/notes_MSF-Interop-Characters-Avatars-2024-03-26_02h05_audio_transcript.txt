@@ -1,0 +1,36 @@
+# Interop Characters Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting was about the Interoperable Characters and Avatars group in the Metaverse Standards Forum. The main topics discussed were:
+1. Approving previous meeting minutes
+2. Speaker outreach updates
+3. Education session update
+4. Detailed use case updates
+5. Future meeting information and working group tools and resources
+
+## Action Items
+- Vote on approving previous meeting minutes
+- Share updates on the Speaker outreach and the Member proposal
+- Attend an education session on Mpeg media with avatar representation
+- Join the Interoperable Characters and Avatars group in the Metaverse Standards Forum
+- Contact national body organization to join Mpeg
+- Connect with team behind Mpeg for further discussion
+- Schedule a separate session with the I triple E 3D body processing standards group
+
+## Timeline of Topics Discussed
+1. Approving previous meeting minutes
+2. Speaker outreach updates
+3. Education session update
+4. Detailed use case updates
+5. Future meeting information and working group tools and resources
+
+## Notes
+- Mpeg is moving ahead on proposing a standard for avatars
+- There is no reference software available for the Mpeg media avatar format yet
+- The goal is to have an avatar representation format that can be used across different platforms and applications
+- The Vrm format and the Apac format are compatible because they are both based on the gltf format
+- There is a need to consider gender in avatar development, especially in relation to bone structure differences between men and women
+- Msf. Use case metrics were created to help identify potential use cases for avatars
+- The Interoperable Characters and Avatars group encourages members to volunteer to take a use case that they are interested in and then complete the detailed use case
+- The character chat bots use case is still being ideated, with suggestions including "digital humans" or "touch chat"
+

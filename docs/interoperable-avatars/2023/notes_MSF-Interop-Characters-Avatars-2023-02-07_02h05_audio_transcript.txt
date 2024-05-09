@@ -1,0 +1,47 @@
+
+**Transcript of the Interoperable Characters and Avatars Metaverse Standards Forum Meeting on 2023-02-07**
+
+[00:00:00] **Introduction**
+
+* The meeting is being recorded.
+* Participants introduce themselves.
+* The purpose of the meeting is to discuss interoperability in the context of characters and avatars in the metaverse.
+* The meeting will be divided into two parts: a presentation by Hideaki Eguchi from VRMC, followed by an open discussion.
+
+[00:12:45] **Presentation by Hideaki Eguchi**
+
+* Hideaki Eguchi presents the concept of VRM, which is a standard for facial expressions in virtual reality.
+* VRM provides an API that allows developers to access and manipulate facial features based on predefined expressions.
+* The goal of VRM is to enable interoperability between different VR platforms and applications.
+* Hideaki Eguchi shares the link to the VRM documentation for further reference.
+
+[00:21:56] **Open Discussion**
+
+* Participants discuss the challenges of implementing facial expressions in virtual reality characters.
+* Some participants prefer using texture offsets, while others use shape keys or brand shapes to change character expressions.
+* The need for a standardized approach to implement facial expressions is highlighted.
+* Hideaki Eguchi explains that VRM was created as a solution to this problem, providing a common interface for developers to access and manipulate facial features.
+* Participants share their experiences with different VR platforms and applications related to characters and avatars in the metaverse.
+
+[00:34:12] **Next Steps**
+
+* The meeting participants agree on the importance of creating a charter document for interoperable characters and avatars.
+* A timeline is proposed, with meetings every 2 weeks until the end of May.
+* Participants suggest inviting representatives from different companies to present their use cases in future meetings.
+* The meeting participants are encouraged to join the Metaverse Standards Forum Discord channel for real-time communication and collaboration.
+* The link to the charter proposal document is shared, along with instructions on how to access it through the Metaverse Standards Forum portal.
+
+[00:42:15] **Questions and Answers**
+
+* Rémi Arnaud asks about the future direction of the initiative and how it will be published as a standard.
+* Mike Roberts explains that the goal is not to create a single standard, but rather to summarize different approaches from existing standards development organizations (Sdos).
+* The importance of understanding the different use cases for characters and avatars in the metaverse is emphasized.
+* Participants discuss the concept of taxonomy and its relevance to interoperability in the context of characters and avatars.
+* It is suggested that inviting experts from the industry who are already working on taxonomies could provide valuable insights for the initiative.
+
+[00:51:32] **Conclusion**
+
+* The meeting participants express their gratitude for the opportunity to participate in the discussion.
+* Future meetings will be scheduled, and participants are encouraged to invite representatives from other companies to contribute their expertise.
+* The recording of the meeting is stopped, allowing participants to engage in water cooler discussions.
+

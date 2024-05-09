@@ -1,0 +1,60 @@
+# Meeting Summary
+## Overview
+The Metaverse Standards Forum Digital Fashion Wearables for Avatars working group met to review the goals and direction of the group, as well as discuss potential collaborations with other groups or members. The meeting was chaired by Nelly Tacheva, Adicha Money, Robert Nava, and Neil Trevett.
+
+## Action Items
+1. Start a Google sheet to collect information about different layering systems and companies working on fashion wearables.
+2. Finalize the charter draft and submit it to the oversight committee for approval.
+3. Schedule the next meeting for 2 weeks from now, alternating between group members leading the meetings.
+4. Reach out to other groups or companies to discuss potential collaborations and explore opportunities for interoperability.
+5. Encourage communication and coordination among different groups working on similar problems.
+6. Create a recommendation based on the findings of the working group, which can be presented to relevant standard organizations or communities.
+7. Continue exploring and researching different file formats and their compatibility with fashion wearables.
+8. Review the document for the draft charter and add as many comments as possible to improve it.
+9. Share the meeting recording and slides with the group members.
+10. Encourage participation from other members of the medical standards Forum who are not part of this group but should be aware of its work on digital fashion wearables for avatars.
+
+## Timeline Outline
+### Introduction (0:00 - 0:05)
+- Nelly Tacheva introduces herself and the meeting agenda.
+- She mentions that the working group is reviving and reviewing its goals and direction.
+
+### Logistics (0:05 - 0:12)
+- Nelly Tacheva provides logistical information, such as the importance of naming oneself with their company and name for tracking attendance.
+- She reminds participants that the meeting is recorded and discusses the legal guidelines to be followed during the discussion.
+
+### Reviewing Goals and Direction (0:12 - 0:45)
+- Nelly Tacheva reviews the goals of the working group, focusing on the use of wearables on avatars.
+- She highlights the need for a system that supports interoperability between different fashion wearable formats.
+- The group discusses the importance of understanding existing layering systems and their compatibility with different file formats.
+
+### Collaborations (0:45 - 1:08)
+- Nelly Tacheva suggests starting collaborations with other groups or members working on similar problems.
+- She emphasizes the need for industry coordination to reduce fragmentation in the field of digital fashion wearables.
+
+### Finalizing Charter Draft (1:08 - 1:25)
+- The group discusses finalizing the charter draft and submitting it to the oversight committee for approval.
+- They agree on the importance of collecting feedback from a larger community to improve the document.
+
+### Google Sheet Collection (1:25 - 1:38)
+- Nelly Tacheva proposes creating a Google sheet to collect information about different layering systems and companies working on fashion wearables.
+- The group agrees on the importance of understanding existing layering systems and their compatibility with different file formats.
+
+### Next Meeting Scheduling (1:38 - 1:45)
+- Nelly Tacheva suggests scheduling the next meeting for 2 weeks from now, alternating between group members leading the meetings.
+- The group agrees on the importance of communication and coordination among different groups working on similar problems.
+
+### Reaching Out to Other Groups (1:45 - 1:57)
+- Nelly Tacheva encourages reaching out to other groups or companies to discuss potential collaborations and explore opportunities for interoperability.
+- The group agrees on the importance of creating a recommendation based on the findings of the working group, which can be presented to relevant standard organizations or communities.
+
+### Reviewing Document for Draft Charter (1:57 - 2:08)
+- Nelly Tacheva emphasizes the need to review the document for the draft charter and add as many comments as possible to improve it.
+- The group agrees on the importance of sharing the meeting recording and slides with the group members.
+
+### Encouraging Participation (2:08 - 2:15)
+- Nelly Tacheva encourages participation from other members of the medical standards Forum who are not part of this group but should be aware of its work on digital fashion wearables for avatars.
+
+### Conclusion (2:15 - End)
+- The meeting concludes with Nelly Tacheva thanking everyone for their participation and contributions to the discussion.
+

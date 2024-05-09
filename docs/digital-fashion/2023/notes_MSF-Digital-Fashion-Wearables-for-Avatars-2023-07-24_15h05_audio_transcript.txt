@@ -1,0 +1,23 @@
+# Summary
+The Metaverse Standards Forum Digital Fashion Wearables for Avatars working group discussed the goals and non-goals of their charter, as well as ways to improve communication and outreach. They considered using a virtual conference format to showcase each working group's progress and contributions. The group also explored the idea of creating a translation framework that would allow different platforms to exchange data more easily.
+
+# Action Items
+1. Schedule a workshop-style meeting before the next call on August 7th, led by Jim, to discuss goals and non-goals in a less formal manner.
+2. Create a virtual conference booth for each working group or exploratory group to showcase their progress and contributions.
+3. Identify a tangible deliverable that adds real value to the people involved in this space, such as a use case matrix or a translation framework.
+4. Continue exploring ways to improve communication and outreach within the Metaverse Standards Forum.
+
+# Timeline of Topics Discussed
+1. Introduction and meeting logistics
+2. Legal compliance and code of conduct
+3. Purpose of the call and reviewing the charter of the Avatar Character Working Group
+4. Discussion on goals and non-goals, including the use case matrix and translation framework
+5. Suggestions for improving communication and outreach within the Metaverse Standards Forum
+6. Exploration of using a virtual conference format to showcase each working group's progress and contributions
+7. Closing remarks and next steps
+
+# Notes
+1. Importance of having a tangible deliverable that adds real value to the people involved in this space
+2. Potential use case matrix for wearables
+3. Translation framework as a way to connect different platforms and exchange data more easily
+

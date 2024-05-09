@@ -1,0 +1,33 @@
+**Transcript of the meeting on December 23, 2021 at 17:00 UTC**
+
+**Participants:**
+- Aditya Mani (AM)
+- Jenn Leung (JL)
+- Jin (Jin)
+- Jack (OMI group representative)
+
+**Topic:** Character Creation and Avatar Wearables
+
+**Summary:**
+The meeting focused on character creation and avatar wearables. Aditya Mani from Ready Player Me (RPM) discussed the process of creating an avatar in RPM, including the use of different clothing layers to create a realistic appearance. Jin shared their experience with the Marvelous Designer software and its layering system for creating clothing. They also discussed the challenges of working with different base meshes and ensuring compatibility between various platforms.
+
+**Key Points:**
+1. Ready Player Me (RPM) allows users to create custom avatars using a combination of pre-made assets and user-generated content.
+2. RPM supports multiple clothing layers, which can be adjusted to create a realistic appearance for the avatar.
+3. Jin is working on a project called "Character Creator" that aims to provide an open source solution for creating custom wearables and base meshes for use in various platforms.
+4. Jin discussed the challenges of working with different base meshes, including inconsistencies in armatures, bone names, and proportions between models.
+5. Jin is exploring the use of metadata to describe wearables and their compatibility with different avatar types.
+6. Jin shared their experience with the Marvelous Designer software and its layering system for creating clothing. They also discussed the challenges of working with different base meshes and ensuring compatibility between various platforms.
+7. Jin is interested in exploring the use of Gtf transform to directly encode metadata into wearables, inspired by the Sketchfab platform's approach to encoding metadata into 3D models.
+8. The meeting participants agreed on the importance of collaboration and co-creation among different groups working on avatar creation and interoperability. They discussed the potential for developing more collaborative workflows using platforms like GitHub, allowing developers to work on different parts of a project simultaneously.
+9. The meeting participants also discussed the potential for real-time skinning as an approach to creating custom wearables that can be applied across different game engines.
+10. The next meeting is scheduled for January 23, 2022.
+
+**Quotes:**
+"We have a clo object, and we have a realistic avatar object. So if a brand says, hey, I want to be present on both, then they would need to." - Aditya Mani
+
+"I think it'd be better to. She'll be for the wearables because it's displayable across a lot of places, and I've got this doing it right over here." - Jin
+
+"Yeah, it's probably the task for chairs for the next several weeks." - Jack
+
+"I feel like that would be really fun. and thanks to you and I tried doing the VR to unreal last time which zoom, which is a complicated enough workflow, because you need to get the map from Unity, and it's a very specific version of unity with this specific version of the plugin. So it's quite interesting." - Jenn Leung

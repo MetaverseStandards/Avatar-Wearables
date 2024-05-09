@@ -1,0 +1,21 @@
+# Summary
+The Digital Fashion Wearables for Avatars MSF meeting focused on discussing use cases and potential solutions for interoperability in the digital fashion industry. The group discussed various scenarios, such as virtual Tryon models, brand ambassadors wearing digital fashion, and avatar calling or virtual immersive calling. They also highlighted the importance of standardizing body attachment points for 3D commerce and emphasized the need for collaboration among different groups and organizations in the industry.
+
+# Action Items
+1. Collect more use cases from various sources, such as the Msf. Discord channel and other relevant channels.
+2. Create a mini wiki or documentation to gather links, data sets, and resources related to wearables and avatars for future reference.
+3. Invite potential speakers from different industries, such as fashion, gaming, entertainment, e-commerce, and social media, to share their insights and experiences with the group.
+4. Explore the possibility of using VRME (Virtual Reality Modeling Language) avatars for interoperability in different metaverses.
+5. Investigate the feasibility of allowing users to upload their own clothing on Runtime and apply them on the animation of the avatar.
+6. Continue discussing and exploring potential solutions for interoperability in the digital fashion industry during future meetings.
+
+# Timeline Outline
+1. Introduction and agenda overview (00:00:03.370 - 00:00:25.089)
+2. Logistics and attendance (00:00:26.660 - 00:01:43.229)
+3. Code of conduct and guidelines (00:01:43.550 - 00:02:01.700)
+4. Use case matrix presentation (00:02:02.110 - 00:18:06.069)
+5. Discussion on attachment points for wearables and avatars (00:18:06.069 - 00:48:02.249)
+6. Collaboration with other groups and organizations in the industry (00:48:02.249 - 00:57:45.770)
+7. Invitation to join the group on Discord for further discussions and collaboration (01:04:43.150 - 01:04:54.009)
+8. Next meeting announcement (01:04:54.009 - 01:04:54.009)
+

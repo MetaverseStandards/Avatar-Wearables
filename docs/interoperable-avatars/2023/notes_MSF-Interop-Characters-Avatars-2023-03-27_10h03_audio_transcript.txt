@@ -1,0 +1,29 @@
+# Summary
+The Interoperable Avatars and Characters group meeting of the Metaverse Standards Forum discussed various topics related to character animation, physics systems, and standardization in the metaverse industry. The meeting aimed to create a shared authoring solution for characters and animations, as well as explore the potential of AI-generated dynamic conversations between avatars.
+
+# Action Items
+1. Create a shared behavioral framework for logic interactivity that's standardized.
+2. Work with Mpeg Iso to develop solutions for core bricks like rigs and deformers.
+3. Explore the potential of AI-generated dynamic conversations between avatars, such as the project by in World.ai.
+4. Look for one more person to help with planning and participating meetings, group engagement, and meeting activities within scope.
+5. Shift future meetings between Central Eastern time and specific times based on speaker availability.
+6. Utilize available tools like Discord and email for quick conversations and major discussions.
+
+# Timeline of Topics Discussed
+1. Introduction and code of conduct.
+2. Communication issues with the forum updates.
+3. Approval of previous meeting minutes.
+4. Outreach and member proposal topics.
+5. Time management during the session.
+6. Guest speaker Mark Petit from Epic Games.
+7. Discussion on character animation, physics systems, and standardization in the metaverse industry.
+8. Exploration of AI-generated dynamic conversations between avatars.
+9. Open chat position for planning and participating meetings, group engagement, and meeting activities within scope.
+10. Shift future meetings between Central Eastern time and specific times based on speaker availability.
+11. Utilization of available tools like Discord and email for quick conversations and major discussions.
+
+# Notes
+1. The Metaverse Standards Forum aims to create a shared authoring solution for characters and animations, as well as explore the potential of AI-generated dynamic conversations between avatars.
+2. The group is working with Mpeg Iso to develop solutions for core bricks like rigs and deformers.
+3. In World.ai is a promising project in the field of AI-generated dynamic conversations between avatars.
+

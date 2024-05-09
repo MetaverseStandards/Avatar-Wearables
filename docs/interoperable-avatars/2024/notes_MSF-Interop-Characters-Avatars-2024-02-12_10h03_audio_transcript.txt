@@ -1,0 +1,38 @@
+# Interop Characters Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting was focused on the Interoperable Characters and Avatars group of the Metaverse Standards Forum. The agenda included approving previous meeting minutes, updates on Speaker, outreach member proposal, updates on the working group web pages, press release, high-level use case metrics, individual deliverables, educational sessions, future meetings, information, expertise, group tools and resources, and Q&A.
+
+## Action Items
+1. Approve previous meeting minutes
+2. Update Speaker outreach member proposal
+3. Review working group web pages and provide feedback
+4. Review press release and provide feedback
+5. Contribute to high-level use case matrix
+6. Allocate detailed use cases to members
+7. Discuss with other groups on interfaces and overlapping topics
+8. Plan educational sessions for the group
+9. Schedule next meeting for February 20th
+10. Utilize mailing list, discord link, and portal for communication and access to documents
+
+## Timeline of Topics Discussed
+1. Introduction and agenda overview
+2. Approval of previous meeting minutes
+3. Updates on Speaker outreach member proposal
+4. Updates on working group web pages
+5. Press release update
+6. High-level use case matrix updates
+7. Individual deliverables updates
+8. Educational sessions planning
+9. Future meetings scheduling
+10. Information, expertise, group tools and resources discussion
+11. Q&A session
+
+## Notes
+- Interface discussions with other working groups for better collaboration
+- Discussion on the use case matrix for industry mapping and technology mapping
+- Web-based interface development for more interactive presentations
+- Request for a Github repo from oversight team for future deliverables
+- Allocation of detailed use cases to members for contribution
+- Invitation to educational sessions for the group
+

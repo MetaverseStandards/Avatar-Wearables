@@ -1,0 +1,25 @@
+# Meeting Summary
+## Overview
+The meeting was about the Interoperable Avatars and Characters group of the Metaverse Standards Forum. The main topics discussed were the approval of the charter, updates on outreach efforts, and future meetings.
+
+## Action Items
+1. Continue with outreach efforts to invite more speakers for upcoming sessions.
+2. Work on the deliverables, such as the use case matrix, during dedicated meeting times.
+3. Share updates through the characters@metavestipenstandards.org email list or the Discord channel.
+4. Encourage members to contribute their topics and presentations for future sessions.
+5. Ensure that all communication on the Discord channel is public and accessible to everyone outside the Metaverse Standards Forum.
+
+## Timeline of Topics Discussed
+1. Approval of the charter by oversight.
+2. Updates on outreach efforts, including inviting speakers and sharing updates through email or Discord.
+3. Future meetings, with a focus on working group deliverables and dedicated meeting times for discussions.
+4. Encouraging members to contribute their topics and presentations for future sessions.
+5. Ensuring that all communication on the Discord channel is public and accessible to everyone outside the Metaverse Standards Forum.
+
+## Notes
+1. The meeting was recorded, and the slide deck recordings were posted to the Forum portal plus stitched into a YouTube series released on the Forum's YouTube channel.
+2. Members were reminded to use their company name followed by "Colin" and then their name for their Zoom names.
+3. The meeting focused on building Use cases, metrics, and roadmaps based on the charter document.
+4. The open source example of a character in Usd scale was used to demonstrate how different software systems import characters with varying degrees of success.
+5. Pixar's custom procedural model for rigged crowds, called Presto Crowds Foundation, was discussed as an example of how Usd scale is ingested into presto for scalability and control.
+

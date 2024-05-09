@@ -1,0 +1,23 @@
+# Meeting Summary
+The Interoperable Capitals and Avatars group of the Metaverse Standards Forum held their seventh working group meeting to discuss updates on outreach, member proposals, and working group web pages. They also shared information about recent strategic review meetings and upcoming deliverables. The session was presented by Patrice Rondao Alface from Nokia, who discussed the coding of dynamic meshes based on video codecs (VDMc).
+
+## Action Items
+- Update member statements with contributions from other working group members or board members.
+- Send a draft of the working group web page to the oversight by December 6th.
+- Upload Youtube videos for recent educational sessions and create a compilation video by February.
+- Write blog articles every three months to share new content on the Metaverse Standards Forum portal.
+
+## Timeline of Topics Discussed
+1. Introduction and agenda review
+2. Approval of previous meeting minutes
+3. Updates on outreach and member proposals
+4. Updates on working group web pages
+5. Recent strategic review meeting updates
+6. Future meetings and briefing expert groups
+7. Q&A session with Patrice Rondao Alface
+
+## Notes
+- The Metaverse Standards Forum is working on a codec for dynamic meshes based on video codecs (VDMc).
+- VDMc leverages hardware acceleration for video decoding and allows for efficient compression of texture, geometry, and motion data.
+- Patrice Rondao Alface's presentation focused on the design and performance of VDMc, highlighting its potential to enable photorealistic avatars in virtual environments.
+

@@ -1,0 +1,34 @@
+# Summary
+The Interoperable Characters and Avatars group meeting discussed updates on the charter, focusing on benefits for different stakeholders, including authoring tools, runtime engines, platforms, and users. The working group will create a matrix of prior to use cases versus interpretability of occurrence, with the mean delivery being the avatar and capital translation framework. The group also considered human rights and non-communicative characters in their work.
+
+# Action Items
+1. Approve the previous meeting minutes by anonymous consensus.
+2. Create a matrix of prior to use cases versus interpretability of occurrence.
+3. Develop the avatar and capital translation framework.
+4. Generate Sto specification requirements based on Lt.
+5. Produce a set of test assets with their assets to confirm the design of the transition framework data format guidelines and excise the correct operational components.
+6. Focus on technical topics, including facial animations, anchor points, skeletons and skeleton animation, optimizations for efficient loading of avatars and characters across various runtime clients, and base level metadata requirements.
+7. Develop a milestone plan with 3 deliverables: Youtube video library based on guest speakers, use case matrix and domain report for the formation of the working group, and the character transportation framework within 12 months.
+8. Coordinate with key players in the industry to increase participation and visibility.
+9. Mitigate potential risks by focusing on activities, projects, and outcomes with strong consensus for immediate benefits to participants.
+10. Provide semi-annual reports to the oversight on the working group's progress towards goals and member participation.
+11. Provide annual report to the Forum as part of an overall Forum public report assessment.
+12. Send funding requests to the oversight Committee, including documentation for development and professional activities.
+
+# Timeline Outline
+1. Watch and approve previous meeting minutes.
+2. Update from standards registers.
+3. Membership update for Msf.
+4. Charter updates focusing on benefits, transition framework, and stakeholder goals.
+5. Goals and non-goals of the working group.
+6. Deliverables: use case matrices, Sto specification requirements, avatar test assets, certification tool, technical topics (facial animations, anchor points, skeletons and skeleton animation, optimizations, base level metadata requirements).
+7. Milestone plan with 3 deliverables.
+8. Communication plan for the working group.
+9. Risk factors and mitigation strategies.
+10. Renewable charter and reporting to oversight.
+11. Funding requests for development and professional activities.
+
+# Notes
+- Pixar needs to be more involved in the organization.
+- Player name is part of identity, not avatar and character data.
+

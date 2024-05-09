@@ -1,0 +1,32 @@
+# Summary
+The Metaverse Standards Forum Digital Fashion Wearables for Avatars working group held a meeting to discuss various topics related to the development of open source systems for fashion variables and avatar creation. The main focus of the discussion was on exploring existing landscapes, defining systems for interoperable fashion variables, and conducting experiments to improve performance and quality.
+
+# Action Items
+1. Investigate existing open source systems for fashion variables and avatars.
+2. Define systems for interoperable fashion variables.
+3. Conduct experiments to improve performance and quality of avatar creation.
+4. Create a shared space between the working groups to facilitate collaboration and learning.
+5. Set up a Wiki on the Forum portal to document progress and share activities with the group.
+6. Invite contributors to join the group and participate in discussions and experiments.
+
+# Timeline of Topics Discussed
+1. Introduction and meeting agenda.
+2. Presentation by Jean on character creators and avatar builders.
+3. Investigation of existing open source systems for fashion variables and avatars.
+4. Definition of systems for interoperable fashion variables.
+5. Experiments to improve performance and quality of avatar creation.
+6. Creation of a shared space between working groups for collaboration and learning.
+7. Set up of a Wiki on the Forum portal to document progress and share activities with the group.
+8. Invitation of contributors to join the group and participate in discussions and experiments.
+
+# Notes
+1. The Metaverse Standards Forum Digital Fashion Wearables for Avatars working group is focused on developing open source systems for fashion variables and avatar creation.
+2. The main focus of the discussion was on exploring existing landscapes, defining systems for interoperable fashion variables, and conducting experiments to improve performance and quality.
+3. Jean presented character creators and avatar builders as examples of open source tools that can be used for fashion variables and avatar creation.
+4. The working group is investigating existing open source systems for fashion variables and avatars to identify potential areas for improvement and collaboration.
+5. The working group is defining systems for interoperable fashion variables to ensure compatibility between different platforms and applications.
+6. The working group is conducting experiments to improve performance and quality of avatar creation, focusing on optimization techniques and tool development.
+7. The working group is creating a shared space between the working groups to facilitate collaboration and learning among members.
+8. The working group is setting up a Wiki on the Forum portal to document progress and share activities with the group.
+9. The working group is inviting contributors to join the group and participate in discussions and experiments related to fashion variables and avatar creation.
+

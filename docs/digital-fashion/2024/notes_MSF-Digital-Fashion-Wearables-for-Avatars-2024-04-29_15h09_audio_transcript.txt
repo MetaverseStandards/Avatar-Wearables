@@ -1,0 +1,30 @@
+# Summary
+The meeting was about the Digital Fashion Wearables for Avatars working group of the Metaverse Standards Forum. The main points discussed were:
+1. Interoperable avatar wearables and their benefits for expanding market reach.
+2. Converting Vauxhall to open format (GLTF) using tools like Smooth Voxels and Blender.
+3. Adding metadata to the GLTF files to preserve authorship information.
+4. Integrating interoperable wearables into character studio for easy attachment and customization.
+5. Exploring ways to automate the process of summarizing meeting notes using AI engines like Gemini or ChatGPT.
+6. Creating a prompt for generating blog post outlines or bullet point summaries from meeting transcripts.
+7. Making meeting content more searchable by including reference links based on keywords mentioned during the meeting.
+8. Discussing the landing page format for the working group, using examples from other groups like the Standards Register and Avatar group.
+
+# Action Items
+1. Convert voxels to open format (GLTF) using tools like Smooth Voxels and Blender.
+2. Add metadata to GLTF files to preserve authorship information.
+3. Integrate interoperable wearables into character studio for easy attachment and customization.
+4. Create a prompt for generating blog post outlines or bullet point summaries from meeting transcripts.
+5. Make meeting content more searchable by including reference links based on keywords mentioned during the meeting.
+6. Discuss the landing page format for the working group, using examples from other groups like the Standards Register and Avatar group.
+
+# Timeline of Topics Discussed
+1. Introduction and logistics.
+2. Legal compliance and code of conduct.
+3. Presentation by Jin on interoperable avatar wearables.
+4. Discussion on converting Vauxhall to open format (GLTF) using tools like Smooth Voxels and Blender.
+5. Adding metadata to GLTF files to preserve authorship information.
+6. Integrating interoperable wearables into character studio for easy attachment and customization.
+7. Exploring ways to automate the process of summarizing meeting notes using AI engines like Gemini or ChatGPT.
+8. Creating a prompt for generating blog post outlines or bullet point summaries from meeting transcripts.
+9. Making meeting content more searchable by including reference links based on keywords mentioned during the meeting.
+10. Discussion on the landing page format for the working group, using examples from other groups like the Standards Register and Avatar group.

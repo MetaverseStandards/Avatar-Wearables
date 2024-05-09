@@ -1,0 +1,37 @@
+# Metaverse Standards Forum: Interoperable Avatars and Characters Working Group Meeting
+
+## Overall Summary
+This was the eighth meeting of the Interoperable Characters Avatars Metaverse Standards Forum working group. Key discussions focused on finalizing the high-level use case matrix, categorizing industries and use cases more clearly, and separating features from use cases. Updates were provided on the speaker outreach, member proposals, website content, and press release. Plans were discussed for the upcoming blog post, including embedding member statements and hosting Priscilla's overview video. Preparations for virtual field trips to relevant events in 2024 were also covered.
+
+- Finalizing the high-level use case matrix, categorizing industries and use cases
+- Separating features from use cases in the matrix
+- Updates on speaker outreach, member proposals, website, and press release  
+- Plans for upcoming blog post with member statements and Priscilla's video
+- Preparations for virtual field trips to relevant 2024 events
+
+## Action Items
+- Incorporate feedback to refine use case matrix, separating use cases and features
+- Follow up with Priscilla on timeframe for her overview video
+- Coordinate with marketing team on embedding member statements in website/blog
+- Explore adding virtual field trip details to events tracking sheet
+
+## Timeline Overview
+- Meeting opening, agenda review
+- Approval of previous meeting minutes 
+- Updates on speaker outreach, member proposals
+- Website content and press release status
+- Detailed review of high-level use case matrix revisions
+  - Categorizing industries, use cases vs features
+  - Different views: industries-focused, use cases-focused
+- Plans for upcoming blog post 
+  - Embedding member statements, hosting Priscilla's video
+- Discussion on virtual field trips for 2024 events
+- Next meeting date, Discord channel
+
+## Notes
+- Flexibility to continue iterating on deliverables like use case matrix
+- Use case matrix aimed to highlight relevance for different industries
+- Potential to create separate grid for use cases vs technical features
+- Website updates to host member statements, milestones like video library 
+- Exploring options for virtual group participation in relevant 2024 events
+- Blog post timing aligned with Priscilla's updated overview video availability

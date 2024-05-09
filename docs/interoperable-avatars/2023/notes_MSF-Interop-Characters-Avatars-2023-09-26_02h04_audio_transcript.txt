@@ -1,0 +1,28 @@
+# Summary
+The Interoperable Characters and Avatars group of the Metaverse Standards Forum held a meeting to discuss their progress, goals, and future plans. The main topics covered in the meeting were:
+1. Approval of previous meeting minutes
+2. Outreach updates and member proposal sheet
+3. Chat election process and responsibilities
+4. Overall goals for the working group activities
+5. Press release draft and use case matrix
+6. Statement document for members to contribute their inputs
+7. Task breakdown for the use case matrix
+8. Template recommendation from the Standards Register team
+9. Quick links section on the Avatars portal page
+
+# Action Items
+1. Approve previous meeting minutes
+2. Update outreach and member proposal sheet
+3. Conduct chat election process
+4. Work on overall goals for the working group activities
+5. Finalize press release draft and use case matrix
+6. Contribute statements to the document
+7. Break down tasks for the use case matrix
+8. Use template recommendation from the Standards Register team
+9. Add quick links section on the Avatars portal page
+
+# Discussion Points
+1. Robotics use cases in virtual stage production and corporate enrollments
+2. Task breakdown for the use case matrix
+3. Template recommendation from the Standards Register team
+

@@ -1,0 +1,23 @@
+# Summary
+The Metaverse Standards Forum Interoperable Avatars and Characters group meeting focused on use cases, recairments, ecosystems, roadmap and related discussion. The meeting agenda included voting on the meeting minutes from the previous session, capturing exploratory group topics and prioritization, exploring use cases and education sessions, and discussing the Via Chat system.
+
+# Action Items
+1. Capture member inputs for potential exploratory group topics and prioritize session.
+2. Invite speakers from other platforms like Roadblocks or Fortnite to discuss their perspectives on interoperability.
+3. Open an invite for another co-chair to join the group, with responsibilities including facilitating meetings, doing group engagement charter writing, and outreach to invite other for Sdos or companies to come and give talks in the session.
+4. Propose Member Speaker proposals based on chatting, existing use case or sharing an education session on a character of a third later technology.
+5. Run another ballot to pick more favorable timing for the Ct. Time zone.
+6. Update the quick access section with all documents and Zoom Meeting available in the dashboard upfront.
+7. Remind that discord is public, but major discussions should be conducted through the mailing list.
+
+# Timeline of Topics Discussed
+1. Voting on meeting minutes from previous session.
+2. Capturing member inputs for potential exploratory group topics and prioritization.
+3. Exploring use cases and education sessions, including Unity unreal scheduling system comparison and Via Chat system discussion.
+4. Inviting speakers from other platforms like Roadblocks or Fortnite to discuss their perspectives on interoperability.
+5. Opening an invite for another co-chair to join the group.
+6. Proposing Member Speaker proposals based on chatting, existing use case or sharing an education session on a character of a third later technology.
+7. Running another ballot to pick more favorable timing for the Ct. Time zone.
+8. Updating the quick access section with all documents and Zoom Meeting available in the dashboard upfront.
+9. Reminding that discord is public, but major discussions should be conducted through the mailing list.
+

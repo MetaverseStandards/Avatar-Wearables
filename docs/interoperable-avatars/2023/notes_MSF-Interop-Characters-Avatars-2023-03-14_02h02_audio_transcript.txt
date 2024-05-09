@@ -1,0 +1,36 @@
+# Interop Characters Avatars Metaverse Standards Forum Meeting Summary
+
+## Overview
+The meeting was about the Interoperable Characters and Avatars Exploratory Group at the Metaverse Standards Forum. The main topics discussed were:
+1. Approving previous meeting minutes
+2. Capturing member proposals, topics, and use cases
+3. Inviting guest speakers to discuss avatar interoperability for Lod level of detail
+4. Discussing optimization pipelines and metadata for avatars
+5. Exploring the concept of virtual expo and marketplaces for testing avatar interoperability
+6. Q&A session with Jim, the guest speaker
+7. Administrative tasks such as chat requests, coach recruitment, and scheduling future meetings
+
+## Action Items
+1. Approve previous meeting minutes by March 20th
+2. Capture member proposals, topics, and use cases for discussion
+3. Invite guest speakers to discuss avatar interoperability for Lod level of detail
+4. Discuss optimization pipelines and metadata for avatars
+5. Explore the concept of virtual expo and marketplaces for testing avatar interoperability
+6. Q&A session with Jim, the guest speaker
+7. Administrative tasks such as chat requests, coach recruitment, and scheduling future meetings
+
+## Timeline of Topics Discussed
+1. Approving previous meeting minutes by March 20th
+2. Capturing member proposals, topics, and use cases for discussion
+3. Inviting guest speakers to discuss avatar interoperability for Lod level of detail
+4. Discussing optimization pipelines and metadata for avatars
+5. Exploring the concept of virtual expo and marketplaces for testing avatar interoperability
+6. Q&A session with Jim, the guest speaker
+7. Administrative tasks such as chat requests, coach recruitment, and scheduling future meetings
+
+## Notes
+1. The meeting was recorded and all slide decks and recordings were posted to the Forum portal for later viewing.
+2. Members were asked not to discuss things like patents or division of markets or product prices during the meeting.
+3. A conduct code of contact was shared, asking members to follow it and avoid unsolicited promotions, adjustments, or spams.
+4. The meeting agenda included approving previous meeting minutes, capturing member proposals topics, exploring use cases and Education sessions, and inviting guest speakers.
+

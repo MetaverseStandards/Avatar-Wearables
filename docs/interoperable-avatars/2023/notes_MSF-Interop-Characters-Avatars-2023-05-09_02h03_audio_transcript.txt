@@ -1,0 +1,17 @@
+The following is a transcript of the meeting between Linden Lab, Andrew Kertesz (Mojo Linden), and the Interop Characters Avatars Metaverse Standards Forum. The discussion revolves around the challenges of interoperability in virtual worlds, particularly with regard to avatar appearance and animations.
+
+Andrew Kertesz begins by discussing the challenges of moving other people's avatars into Second Life and the idea of moving Second Life avatars into other worlds. He mentions that they have been working on a mobile application and successfully implemented their rendering aspects in Unity, but it was a lot of work to move coordinate systems and retarget everything.
+
+Andrew then presents three ideas for dealing with interoperability:
+1. Resampling avatars to reduce the number of polygons, making them compatible with other environments like Roadblocks or other games. This would require retargeting and adopting a new clothing system.
+2. Adopting a new standard in Second Life that could potentially serve as a bridge for people to come into Second Life.
+3. Considering whether avatars actually need to be portable, and if not, creating a convention where users can associate their presence with different worlds.
+
+Andrew also mentions that they have been working on adopting Chrono standards and GLTF materials in particular. He shows some examples of the new lighting models and reflection probes they are implementing.
+
+David Kaplan, from the University of Southern California, shares his perspective on the metaverse as an upgrade to the Internet. He believes that interoperability is crucial for serving a variety of needs and growing as a community rather than relying on a single entity. David suggests that standards like USD (Universal Scene Description) are rapidly becoming adopted in the industry.
+
+Dave Parks, from Linden Lab, confirms that they are going all-in on GLTF implementation. They currently have support for materials and plan to expand their support in the future.
+
+The meeting concludes with a reminder of the next few meetings and an invitation to contribute suggestions for the charter creation process. The forum is encouraged to use discord for small conversations, but the content will be public.
+

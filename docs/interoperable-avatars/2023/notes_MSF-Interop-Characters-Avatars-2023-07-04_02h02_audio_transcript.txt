@@ -1,0 +1,26 @@
+# Summary
+The meeting was about the Interoperable Avatars and Characters group of the Metaverse Standards Forum. The main topics discussed were:
+1. Approval of the previous meeting minutes
+2. Update from the Standard Register team
+3. Msf membership renewal
+4. Charter updates, including goals, non-goals, deliverables, and technical topics
+5. Timeline for the working group process
+6. Coordination with Sdos and companies involved in avatar and character technologies
+7. Future meetings and briefs
+8. Tools and resources available to the working group
+
+# Action Items
+1. Renew Msf membership by the deadline
+2. Review and approve the previous meeting minutes
+3. Share feedback on the charter draft within the specified timeline
+4. Collaborate with Sdos and companies involved in avatar and character technologies
+5. Prepare for future meetings and briefs
+6. Utilize available tools and resources for the working group process
+
+# Discussion Points
+1. Approval of the charter at the next exploratory group meeting
+2. Possibility of having a follow-up meeting for the American audience due to holidays
+3. Sending email reminders for everyone to review the information offline
+4. Organizing meetings around the Pacific standard time and Central European Standard summer time
+5. Ensuring that everyone has had an opportunity to provide feedback on the charter draft
+
