@@ -1,7 +1,7 @@
 # Digital Fashion Wearables for Avatars
 
 [![Club](https://img.shields.io/badge/project%20type-club-ff69b4)](https://project-types.github.io/#club)
-[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/MVsqBDNn)
+[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/hrQpYjAr3t)
 [![Twitter Follow](https://img.shields.io/twitter/follow/metaverse_forum)](https://twitter.com/metaverse_forum)
 
 Welcome to the MSF exploratory group focused on Digital Fashion! We are mainly exploring the use case where users can try on digital wearables in a virtual fitting room and leave with a new outfit that's ready to show such in as many places as possible.
@@ -24,7 +24,7 @@ Welcome to the MSF exploratory group focused on Digital Fashion! We are mainly e
 
 ## 📅 Calendar
 
-Meetups are **bi-weekly** every Monday morning at 10am EST, calendar and event information can be found in the [MSF portal](https://portal.metaverse-standards.org/wg/Fashion_Wearables/dashboard) for this group. If you wish to reach us live, join the public [MSF discord](https://discord.gg/MVsqBDNn) and hop into the wearables-for-avatars [channel](https://discord.com/channels/985632346386595930/1070722884173041765).
+Meetups are **bi-weekly** every Monday morning at 11am EST, calendar and event information can be found in the [MSF portal](https://portal.metaverse-standards.org/wg/Fashion_Wearables/dashboard) for this group. If you wish to reach us live, join the public [MSF discord](https://discord.gg/MVsqBDNn) and hop into the wearables-for-avatars [channel](https://discord.com/channels/985632346386595930/1070722884173041765).
 
 We pay special attention to opportunities for cooperation between multiple initiatives to increase synergy and reduce duplication of effort, gaps, fragmentation and confusion, for the good of the industry. Here are a few groups that have a shared interest to avatar / wearable interop:
 
