@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/hrQpYjAr3t)
 [![Twitter Follow](https://img.shields.io/twitter/follow/metaverse_forum)](https://twitter.com/metaverse_forum)
 
-Welcome to the MSF exploratory group focused on Digital Fashion! We are mainly exploring the use case where users can try on digital wearables in a virtual fitting room and leave with a new outfit that's ready to show such in as many places as possible.
+Welcome to the MSF working group focused on Digital Fashion! We are mainly exploring the use case where users can try on digital wearables in a virtual fitting room and leave with a new outfit that's ready to show such in as many places as possible.
 
 ![image](https://user-images.githubusercontent.com/32600939/221760056-e346fd09-3d5a-4257-8237-665c94140397.png)
 <div align="center">
@@ -28,7 +28,7 @@ Meetups are **bi-weekly** every Monday morning at 11am EST, calendar and event i
 
 We pay special attention to opportunities for cooperation between multiple initiatives to increase synergy and reduce duplication of effort, gaps, fragmentation and confusion, for the good of the industry. Here are a few groups that have a shared interest to avatar / wearable interop:
 
-- [**Interoperable Characters/Avatars EG**](https://portal.metaverse-standards.org/wg/Characters_Avatars/workgroup)
+- [**Interoperable Characters/Avatars WG**](https://portal.metaverse-standards.org/wg/Characters_Avatars/workgroup)
   - Interoperable avatars and wearables are very closely related topics
 - [**Open Metaverse Interoperability group**](https://omigroup.org/)
   - Check out the work the [glTF extensions](https://github.com/omigroup/gltf-extensions) meetup is doing
@@ -40,9 +40,8 @@ We pay special attention to opportunities for cooperation between multiple initi
 
 ## 🥅 Goals
 
-As with any MSF Exploratory Group our goal is to identify and build consensus on what pragmatic projects and activities can best progress interoperability in a particular domain, and then capturing those insights into a draft Working Group Charter. The more short-term deliverables that drive well-defined interoperability benefits the better.
+First step for MSF working groups is to identify and build consensus on what pragmatic projects and activities can best progress interoperability in a particular domain, capture those insights into a Working Group Charter, and then work on them. The more short-term deliverables that drive well-defined interoperability benefits the better.
  
-
 - Survey the current landscape of existing file formats for storing avatars and related assets https://github.com/MetaverseStandards/Avatar-Wearables/issues/2
 - Generating use cases and requirements for avatar customisation https://github.com/MetaverseStandards/Avatar-Wearables/issues/3
 - Generate insights on digital fashion interoperability including clothing (with a layering system), shoes, hats, and accessories https://github.com/MetaverseStandards/Avatar-Wearables/issues/4
